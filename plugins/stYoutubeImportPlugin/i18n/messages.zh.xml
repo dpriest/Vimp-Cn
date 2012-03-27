@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 15 2011-08-23 13:59:01Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-02-22T21:53:25Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Youtube-Import settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Import video</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Youtube-Import</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Enable Youtube-Video Import</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>This activates the YouTube video import in the upload form</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>YouTube-ID or URL</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>New youtubes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Download youtube videos</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>If set to true, youtube videos can be downloaded</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

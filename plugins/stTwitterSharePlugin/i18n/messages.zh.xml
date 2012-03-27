@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 2 2011-06-28 17:28:23Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-02-24T14:45:38Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Twitter Share settings</source>
+        <target>Twitter共享设置</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Twitter Share</source>
+        <target>Twitter分享</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Enable Twitter Share</source>
+        <target>启用Twitter分享</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>If set to true, the Twitter share button will be displayed.</source>
+        <target>如果设置为true，Twitter分享按钮就会显示出来。</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Count</source>
+        <target>计数</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Determines the size and shape of the button.</source>
+        <target>确定按钮的大小和形状。</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Vertical count</source>
+        <target>垂直计数</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Horizontal count</source>
+        <target>水平计数</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>No count</source>
+        <target>没有计数</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

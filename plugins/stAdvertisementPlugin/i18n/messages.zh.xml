@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 2 2011-06-28 17:28:26Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-02-03T21:01:29Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Advertisement settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Advertisement</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Show ad-tag-container positions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Shows all possible positions of the ad-tag-container (regardless of their activation).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Enable advertisement in header</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>HTML code for the advertisement in header</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>The size of the advertisement should not exceed a width of 648 pixels and a height of 64 pixels. __RANDOM_NUMBER__ innerhalb des HTML-Code wird durch eine Zufallszahl ersetzt. __REQUEST_RANDOM_NUMBER__ wird durch eine Zufallszahl ersetzt, die den gesamten Request gleich bleibt.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Enable advertisement in the context menu under user info box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>HTML code for the advertisement in the context menu under user info box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>The size of the advertisement should not exceed a width of 205 pixels. __RANDOM_NUMBER__ within the HTML code will be replaced by a random number. __REQUEST_RANDOM_NUMBER__ is replaced by a random number, the entire request remains the same.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Enable advertisement in the context menu under search box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>HTML code for the advertisement in the context menu under search box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Enable advertisement in the context menu under channels box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>HTML code for the advertisement in the context menu under channels box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Enable advertisement in the context menu under categories box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>HTML code for the advertisement in the context menu under categories box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Enable advertisement in the context menu under tags box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>HTML code for the advertisement in the context menu under tags box</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Enable advertisement over content area</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>HTML code for the advertisement over the content area</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The size of the advertisement should not exceed a width of 740 pixels. __RANDOM_NUMBER__ within the HTML code will be replaced by a random number. __REQUEST_RANDOM_NUMBER__ is replaced by a random number, the entire request remains the same.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Enable advertisement under the content area</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>HTML code for the advertisement under the content area</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Enable advertisement as skyscraper</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>HTML code for the advertisement as skyscraper</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>The size of the advertisement should not exceed a width of 120 pixels. __RANDOM_NUMBER__ within the HTML code will be replaced by a random number. __REQUEST_RANDOM_NUMBER__ is replaced by a random number, the entire request remains the same.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Enable advertisement in footer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>HTML code for the advertisement in left footer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>HTML code for the advertisement in right footer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The size of the advertisement should not exceed a width of 220 pixels. __RANDOM_NUMBER__ within the HTML code will be replaced by a random number. __REQUEST_RANDOM_NUMBER__ is replaced by a random number, the entire request remains the same.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Acudeo settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Acudeo</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Program ID</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

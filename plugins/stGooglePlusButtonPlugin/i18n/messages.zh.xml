@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 2 2011-09-01 14:45:54Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-02-24T16:54:54Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Google +1 settings</source>
+        <target>谷歌1设置</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Google +1</source>
+        <target>谷歌1</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Enable Google +1</source>
+        <target>启用Google +1</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>If set to true, the Google +1 button will be displayed.</source>
+        <target>如果设置为true，谷歌1按钮就会显示出来。</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Size</source>
+        <target>尺寸</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Determines the size of the button.</source>
+        <target>确定按钮的大小。</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Show counter</source>
+        <target>显示计数器</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>JS callback function</source>
+        <target>JS回调函数</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Parse</source>
+        <target>解析</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>small</source>
+        <target>小</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>medium</source>
+        <target>中</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>default</source>
+        <target>默认</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>tall</source>
+        <target>高</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>On load</source>
+        <target>负载</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Explicit</source>
+        <target>明确</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 417 2011-09-23 08:51:48Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-04-13T22:17:04Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>The user has been blocked.</source>
+        <target>该用户已被封定。</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Your account has not been confirmed.</source>
+        <target>您的帐户还未激活。</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>You do not have enough permissions to use the administration panel.</source>
+        <target>您没有足够的权限来使用管理面板。</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Field @fieldname </source>
+        <target>字段 @fieldname</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>just now</source>
+        <target>刚才</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>@time @unit</source>
+        <target>@time @unit</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Handed '@param' parameter is not a valid user ID</source>
+        <target>'@param' 参数是不是一个有效的用户ID</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Handed '@param' parameter is not a user object and not a user ID</source>
+        <target>'@param'参数是不是一个用户对象，而不是一个用户ID</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>The user could not be found.</source>
+        <target>找不到该用户</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>[ Hidden ]</source>
+        <target>[隐藏]</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Handed '@param' parameter is not a valid group ID</source>
+        <target>手“@参数”参数是不是一个有效的组ID</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Handed '@param' parameter is not a group object and not a group ID</source>
+        <target>手“@参数”参数是不是一组对象，而不是一个组ID</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Handed '@param' parameter is not a valid channel ID</source>
+        <target>手“@参数”参数是不是一个有效的通道ID</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Handed '@param' parameter is not a channel object and not a channel ID</source>
+        <target>手“@参数”参数是不是一个通道对象，而不是一个频道ID</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Handed '@param' parameter is not a valid user</source>
+        <target> '@param' 参数是不是一个有效的用户</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Handed '@param' parameter is not a valid media</source>
+        <target>手“@参数的参数是不是一个有效的媒体</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Handed '@param' parameter is not a valid media ID</source>
+        <target>手“参数”参数是不是一个有效的媒体ID</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Handed '@param' parameter is not a media object and not a media ID</source>
+        <target>手“@参数”参数是不是一个媒体对象，而不是一个介质ID</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Handed '@param' parameter is not a valid role ID</source>
+        <target>手“@参数”参数是不是一个有效的角色ID</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Handed '@param' parameter is not a role object and not a role ID</source>
+        <target>参数不手“@ PARAM”的作用对象，而不是一个角色ID</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Loading ...</source>
+        <target>载入中...</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Error submitting form</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>You have attempted to queue too many files.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>You have reached the upload limit.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>You may upload up to @count files.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>You may only upload one file.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>The file you selected is too big.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>The file you selected is empty. Please select another file.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>The file you choose is not an allowed file type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>An error occurred in the upload. Try again later.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Pending...</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Upload cancelled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>On the server are not enough space for uploads available!</source>
+        <target>服务器上没有足够的空间提供上传</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Uploading...</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Complete.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>File rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>There is a configuration problem. Currently, no upload possible.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Upload error</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Upload failed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Server (I/O) error</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Security error</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Upload limit exceeded. No other file can be uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Failed validation. Upload skipped.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Upload stopped</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>@count files uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>1 file uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>There was a problem with the upload.\nThe server did not accept it.</source>
+        <target>有一个问题与上传\ n此服务器不接受它。</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Basic</source>
+        <target>基本法</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Version information</source>
+        <target>版本信息</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Public version information for ViMP</source>
+        <target>ViMP版本信息</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Base directory</source>
+        <target>基本目录</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Absolute path to where ViMP is installed (often called webroot)</source>
+        <target>ViMP安装的绝对路径（通常称为Web根目录）</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Server user</source>
+        <target>服务用户</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Server group</source>
+        <target>服务器组</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Default language</source>
+        <target>预设语言</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Sets the default language of the portal (default: @default)</source>
+        <target>设置门户网站的默认语言（默认：默认）</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Maximum upload filesize</source>
+        <target>最大上传文件大小</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Value (in bytes) that limits file uploads (make sure to adjust php.ini as well)</source>
+        <target>值（以字节为单位），限制上传文件（确保调整php.ini以及）</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Temporary upload directory</source>
+        <target>临时上传目录</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Specify here which temporary directory is used for http post uploads</source>
+        <target>在这里指定使用HTTP POST上传临时目录</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Number of media items in RSS feeds</source>
+        <target>RSS订阅数的媒体项目</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>This sets the maximum number of media items within a RSS feed</source>
+        <target>这台内媒体项目的最大数量的RSS提要</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Allowed e-mail domains</source>
+        <target>允许电子邮件域</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Approve e-mail addresses not matching the allowed domains</source>
+        <target>批准发送邮件地址不匹配允许的域</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Internal cache directory</source>
+        <target>内部缓存目录</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Relative location of the internal cache directory</source>
+        <target>内部缓存目录的相对位置</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Total number of results in autocomplete fields</source>
+        <target>在自动完成字段总数结果</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Media</source>
+        <target>媒体</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Enable videos</source>
+        <target>启用视频</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>If set to true, videos can be uploaded in the portal</source>
+        <target>如果设置为true，视频可以上传在门户网站</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Enable photos</source>
+        <target>启用照片</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>If set to true, photos can be uploaded in the portal</source>
+        <target>如果设置为true，照片可以上传在门户网站</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Enable audio files</source>
+        <target>启用音频文件</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>If set to true, audio files can be uploaded in the portal</source>
+        <target>如果设置为true，音频文件，可以在门户网站上载</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Activate comments</source>
+        <target>激活的意见</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>If set to true, users can comment media</source>
+        <target>如果设置为true，用户可以评论媒体</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Allow rating</source>
+        <target>允许评级</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Verify new media</source>
+        <target>验证新媒体</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>If this value is set to true, all the new media must first be approved by an administrator</source>
+        <target>如果这个值设置为true，所有的新媒体必须首先由管理员批准</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Featured media type</source>
+        <target>功能的媒体类型</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>This defines the way featured media is selected for the homepage</source>
+        <target>这个定义的功能的媒体是网页选择的方式</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Featured medium</source>
+        <target>特色介质</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>If you have chosen "single medium" in the "Featured media type" option you can define that medium with this option</source>
+        <target>如果您选择了“单一介质”，在“功能的媒体类型”选项，您可以定义此选项中。</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Default width of the ViMP media player</source>
+        <target>ViMP媒体播放器的默认宽度</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>This sets the default width of the media player (in pixel)</source>
+        <target>这台媒体播放器的默认宽度（像素）</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Default height of the ViMP media player</source>
+        <target>ViMP媒体播放器的默认高度</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>This sets the default height of the media player (in pixel)</source>
+        <target>这台媒体播放器的默认高度（像素）</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Minimum value for ratings</source>
+        <target>为收视率的最低值</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>(default: @default)</source>
+        <target>（默认：默认）</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Maximum value for ratings</source>
+        <target>为收视率的最大价值</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Rating step size</source>
+        <target>评级步长</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>The step for ratings (default: @default)</source>
+        <target>对收视率的步骤（默认：@默认）</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Time limit for medium visit count</source>
+        <target>介质访问计数的时间限制</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>This sets the number of seconds, during which visits to a medium by the same user won't be counted (default: @default = every visit counts)</source>
+        <target>这集的秒数，在此期间，由同一个用户访问一个中等不会被计算（默认：@default =每次访问计数）</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>List of allowed video extensions</source>
+        <target>允许视频扩展名单</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Separate multiple extensions with a comma</source>
+        <target>用逗号分隔多个扩展</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>List of allowed photo extensions</source>
+        <target>允许的照片扩展名单</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>List of allowed audio file extensions</source>
+        <target>允许音频文件扩展名列表</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>User</source>
+        <target>用户</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Users</source>
+        <target>用户</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Verify registered users</source>
+        <target>验证注册用户</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>If set to true, new users have to be verified by an administrator</source>
+        <target>如果设置为true，新用户都必须由管理员核实</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Log in user after registration</source>
+        <target>用户在注册后登录</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>If set to true, each new user will be automatically logged in after registration</source>
+        <target>如果设置为true，每个新用户将被自动记录在登记后</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Send friend requests by e-mail</source>
+        <target>通过电子邮件发送好友请求</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>If set to true, an additional friend request by e-mail will be sent (otherwise only a private message is sent on the portal)</source>
+        <target>如果设置为true，一个额外的朋友通过e - mail请求将被发送（否则只有悄悄话门户网站发送）</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Minimum length of a username</source>
+        <target>最小长度的用户名</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This sets the minimum number of characters for valid usernames</source>
+        <target>这为有效的用户名的最少字符数</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Maximum length of a username</source>
+        <target>用户名的最大长度</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>This sets the maximum number of characters for valid usernames</source>
+        <target>这为有效的用户名的最大字符数</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Minimum password length</source>
+        <target>密码长度最小值</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>This sets the minimum number of characters for valid passwords</source>
+        <target>这为有效密码的最少字符数</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Maximum password length</source>
+        <target>密码最大长度</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>This sets the maximum number of characters for valid passwords</source>
+        <target>这为有效密码的最大字符数</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Time limit for user visit count</source>
+        <target>用户访问计数的时间限制</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>This sets the number of seconds, during which visits to a profile by the same user won't be counted (default: @default = every visit counts)</source>
+        <target>这集的秒数，由同一个用户配置文件的访问，其间将不被计算（默认：默认值=每次访问计数）</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>User online timeout</source>
+        <target>用户连接超时</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Defines for how long after the last page view a user will be shown as online (in seconds, default: @default)</source>
+        <target>定义后多久的最后一页查看用户将显示为在线（以秒计，默认：@default）</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>"New user" Timeout</source>
+        <target>“新用户”超时</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Specifies how long a user after registration appears to be new (in seconds, default: @default)</source>
+        <target>指定多久后，注册用户似乎是新的（以秒计，默认：@默认）</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Invitiations expire after X days</source>
+        <target>Invitiations到期后X天</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Set the number of days after which invitation requests expire</source>
+        <target>设置邀请请求到期的天数后，</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>E-mail</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Mail type</source>
+        <target>邮件类型</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>This defines the mailer used to send e-mails.</source>
+        <target>这定义用于发送电子邮件的邮件。</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>Mail SMTP server</source>
+        <target>邮件的SMTP服务器</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>If mail type is set to SMTP, specify the (external) SMTP server here</source>
+        <target>如果邮件类型设置为SMTP，指定（外部）的SMTP服务器</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Mail SMTP Port</source>
+        <target>邮件SMTP端口</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>If mail type is set to SMTP the external SMTP port are specified here</source>
+        <target>如果邮件类型是外部SMTP端口设置为SMTP此处指定</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Mail SMTP user</source>
+        <target>邮件的SMTP用户</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>If mail type is set to SMTP enter the SMTP username here</source>
+        <target>如果邮件类型设置为SMTP输入SMTP用户名</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Mail SMTP password</source>
+        <target>邮件SMTP密码</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>If mail type is set to SMTP enter the SMTP password here</source>
+        <target>如果邮件类型设置为SMTP输入SMTP密码</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Mail SMTP POP authentication</source>
+        <target>邮件的SMTP POP验证</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>If your SMTP server requires POP authentication, enable this setting</source>
+        <target>如果您的SMTP服务器需要POP验证，启用此设置</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Mail POP server</source>
+        <target>邮件的POP服务器</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Set the POP server if your SMTP server requires POP authentication</source>
+        <target>如果您的SMTP服务器需要POP验证，设置POP服务器</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Send e-mail notification on new private messages</source>
+        <target>在新的私人讯息发送电子邮件通知</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Portal</source>
+        <target>门户网站</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Web address</source>
+        <target>网站地址</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>This is the URL to your portal</source>
+        <target>这是您的门户网站的网址</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Portal name</source>
+        <target>门户网站的名称</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>This is the name of your portal</source>
+        <target>这是您的门户网站的名称</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Portal title</source>
+        <target>门户网站标题</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>This is the name of the portal that will be displayed in the browser's title bar and inserted into the META tags of the HTML</source>
+        <target>这是门户网站的名称将显示在浏览器的标题栏和插入的HTML META标签</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Portal description</source>
+        <target>门户网站的介绍</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>This is the description of the portal that will be inserted into the META tags of the HTML</source>
+        <target>这是门户网站的描述，将插入到HTML的META标签</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Portal keywords</source>
+        <target>门户网站的关键字</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>These are the keywords of the portal that will be inserted into the META tags of the HTML</source>
+        <target>这些门户将插入到HTML的META标签的关键字</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Portal e-mail address</source>
+        <target>门户网站E - mail地址</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>This is the e-mail address that is set as the sender address for outgoing e-mails (e.g. registration e-mails)</source>
+        <target>这是传出的电子邮件（如注册电子邮件的地址作为发件人的电子邮件地址）</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Copyright notice</source>
+        <target>版权声明</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>This notice will be displayed within the RSS feed</source>
+        <target>本通知将显示在RSS提要</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Portal logo</source>
+        <target>门户网站徽标</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>This is the file that is used as a logo for your portal</source>
+        <target>这是作为您的门户网站的标志使用的文件</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Portal logo (small)</source>
+        <target>门户网站的标志（小）</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>This is the small version of your portal logo</source>
+        <target>这是您的门户标志的小版本</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>Player</source>
+        <target>播放器</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Autostart media playback</source>
+        <target>自动启动媒体播放</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Autoload media</source>
+        <target>自动加载媒体</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Lights off automatically</source>
+        <target>关闭自动点亮</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Allow fullscreen mode</source>
+        <target>允许全屏模式</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Show share button</source>
+        <target>显示“共享”按钮</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Show info button</source>
+        <target>“显示信息”按钮</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Show lights off button</source>
+        <target>显示关闭按钮的灯</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>ViMP Media Player control bar height</source>
+        <target>ViMP媒体播放器控制栏的高度</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Height in pixel (default: @default)</source>
+        <target>像素的高度（默认值：@默认）</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Show tooltips in ViMP Media Player</source>
+        <target>在ViMP媒体播放器的工具提示</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Loop playback</source>
+        <target>循环播放</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Player scaling</source>
+        <target>播放器缩放</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>(default: noscale)</source>
+        <target>（默认：noscale）</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>ViMP Media Player Key</source>
+        <target>ViMP媒体播放器的关键</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Number of related media in ViMP Media Player</source>
+        <target>一些相关的媒体在ViMP媒体播放器</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Maximum number of items in sidebar in ViMP Media Player</source>
+        <target>在ViMP媒体播放器的侧边栏项目的最大数量</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>related media view</source>
+        <target>查看相关报道</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>ViMP Media Player skin</source>
+        <target>ViMP媒体播放器的皮肤</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>Logo</source>
+        <target>徽标</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>This is the image file that is used as a logo in the player</source>
+        <target>这是作为一个球员的标志使用的图像文件</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Stream bar color</source>
+        <target>流栏的颜色</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Enter a hexadecimal value in the format 0xrrggbb (default: @default)</source>
+        <target>输入十六进制格式0xRRGGBB的值（默认：默认）</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Seek bar color</source>
+        <target>搜索栏颜色</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Text color</source>
+        <target>文字颜色</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Text color (highlighted)</source>
+        <target>文字颜色（高亮）</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Text color (Hover)</source>
+        <target>文字的颜色（悬停）</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Tag cloud</source>
+        <target>标签云</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Tag cloud mode</source>
+        <target>标签云模式</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Tag-Cloud: text color</source>
+        <target>标签云：文字的颜色</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Tag-Cloud: highlighting color</source>
+        <target>标签云：突出显示颜色</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Tag-Cloud: background color</source>
+        <target>标签云：背景颜色</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Tag-Cloud: Maximum items</source>
+        <target>标签云：最大的项目</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>WebTV</source>
+        <target>网络电视</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>WebTV mode</source>
+        <target>网络电视模式</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Select the active areas of the portal. "WebTV only": All parts of the portal except WebTV are available for administrators and moderators only. Users can still register unless this function is also disabled. "Community only" deactivates the WebTV mode completely</source>
+        <target>选择门户网站的活跃的地区。 “网络电视只有”：除了网络电视门户网站的所有部分都仅管理员和版主。用户仍然可以注册，除非这个功能也被禁用。 “社区”，完全取消了WebTV模式</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Featured media type in WebTV mode</source>
+        <target>在网络电视模式下的功能的媒体类型</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>This defines the way featured media is selected in WebTV mode</source>
+        <target>这定义功能的媒体网络电视模式选择的方式</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>Featured medium in WebTV mode</source>
+        <target>推荐中型网络电视模式</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>If you have chosen "single medium" in the "Featured media type in WebTV mode" option you can define that medium with this option</source>
+        <target>如果您选择“单一介质”选项“功能的媒体类型中的WebTV模式”，您可以定义此选项中。</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Select if rating of media is allowed in WebTV mode</source>
+        <target>选择媒体的评级是允许在网络电视模式</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Show category browser</source>
+        <target>显示类别</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Activate user playlists</source>
+        <target>激活用户的播放列表</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>If you activate this setting registered users can create and save their own playlists</source>
+        <target>如果您启用此设置的注册用户可以创建和保存自己的播放列表</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Show search bar</source>
+        <target>显示搜索栏</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Enable ColorMood</source>
+        <target>启用ColorMood</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>ColorMood makes the video experience more comfortable by changing the background color according to the colors in the video</source>
+        <target>ColorMood让视频体验更舒适，改变背景颜色，根据视频中的颜色</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Promote selected media</source>
+        <target>促进选定的媒体</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Choose if you want to promote selected media during playback</source>
+        <target>选择，如果你想促进在播放过程中选定的媒体</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Promoted media type</source>
+        <target>宣传的媒体类型</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Define how promoted media are selected</source>
+        <target>定义如何促进媒体选择</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Number of recommended media</source>
+        <target>推荐的介质数量</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Show recommended media for the first time during video x</source>
+        <target>推荐的介质展首次在视频x</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Show recommended media every y videos</source>
+        <target>显示推荐的介质每y视频</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Teaser length</source>
+        <target>预告长度</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Select how many seconds the teasers for next and recommended videos will be shown</source>
+        <target>选择多少秒会显示下一个主题“和”推荐影片的玩笑</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Loop media playback</source>
+        <target>河套媒体播放</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Transcoder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>transcoder type</source>
+        <target>转码器类型</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Pages</source>
+        <target>页</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Show page on startpage</source>
+        <target>显示页面上STARTPAGE</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Show page in the media section</source>
+        <target>在媒体部分的显示页面</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Show page in the video section</source>
+        <target>在视频部分的显示页面</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>Show page in the photo section</source>
+        <target>照片中的部分显示页面</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Show page in the audio section</source>
+        <target>在音频部分显示页</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Show page on the blog page</source>
+        <target>博客页面上显示页</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Show page on the community page</source>
+        <target>社区页面上显示页</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Show page on the channels page</source>
+        <target>的频道页面上显示页</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Show page on the groups page</source>
+        <target>显示组页上的页面</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Show page on the forum page</source>
+        <target>显示在论坛上页页</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Pages: Terms of Use page</source>
+        <target>页：使用条款页</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Select the page to be used for the Terms of Use page here</source>
+        <target>选择页面页使用的条款</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Pages: Privacy Policy page</source>
+        <target>页数：隐私策略页</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Select the page to be used for the Privacy Policy page here</source>
+        <target>隐私政策的页面在这里选择页面</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Pages: Disclaimer page</source>
+        <target>页数：免责声明页</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Select the page to be used for the Disclaimer page here</source>
+        <target>选择这里免责声明页面使用页面</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Pages: Footer text</source>
+        <target>页数：页脚文本</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>Select the page to be used for the footer text here</source>
+        <target>选择这里的页脚文本页面</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Pages: 404 error pages</source>
+        <target>页数：404错误页面</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Select the page to be used for 404 error pages here</source>
+        <target>选择页面这里使用的是404错误页面</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Pages: 500 error pages</source>
+        <target>页数：500错误页</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Select the page to be used for 500 error pages here</source>
+        <target>选择500错误页面在这里使用页面</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>Pages: media upload help text</source>
+        <target>页数：媒体上传帮助文本</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Select the page to be used for the media upload help text here</source>
+        <target>选择要对媒体使用的页面上传在这里帮助文本</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Pages: media edit help text</source>
+        <target>页数：媒体编辑帮助文本</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Select the page to be used for the media edit help text here</source>
+        <target>选择媒体编辑帮助文本页面</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Pages: user edit help text</source>
+        <target>页数：用户编辑帮助文本</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Select the page to be used for the user edit help text here</source>
+        <target>选择要为用户使用的页面编辑在这里帮助文本</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Pages: blog edit help text</source>
+        <target>页数：博客编辑帮助文本</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Select the page to be used for the blog edit help text here</source>
+        <target>选择要使用的页面的博客编辑帮助文本</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Pages: blog comment help text</source>
+        <target>页数：博客评论帮助文本</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Select the page to be used for the blog comment help text here</source>
+        <target>选择博客评论帮助文本页面</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Pages: group edit help text</source>
+        <target>页数：组编辑帮助文本</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>Select the page to be used for the group edit help text here</source>
+        <target>选择要使用的页面为集团在这里编辑帮助文本</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Pages: friend invite help text</source>
+        <target>页数：朋友邀请帮助文本</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>Select the page to be used for the friend invite help text here</source>
+        <target>选择要使用的页面的朋友，请帮助文本在这里</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>Default status</source>
+        <target>默认状态</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Status of new blog entries</source>
+        <target>新博客条目的状态</target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source>Status of new blog comments</source>
+        <target>新的博客评论的状态</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>Status of new categories</source>
+        <target>新的类别的状态</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Status of new channels</source>
+        <target>新渠道的现状</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Status of new forums</source>
+        <target>新论坛的状态</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Status of new forum threads</source>
+        <target>新的论坛主题的状态</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Status of new forum comments</source>
+        <target>新论坛的意见的状态</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>Status of new media</source>
+        <target>新媒体的地位</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Status of new media comments</source>
+        <target>新媒体评论的现状</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Status of new media flags</source>
+        <target>新媒体标志的现状</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Status of new private messages in Inbox</source>
+        <target>在收件箱中的新的私人讯息的状态</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Status of new private messages in Outbox</source>
+        <target>在发件箱中的新的私人讯息状态</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>Status of new access roles</source>
+        <target>新的访问角色的状态</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Status of new tags</source>
+        <target>新标签的状态</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Status of new user comments</source>
+        <target>新的用户评论的状态</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Status of new user flags</source>
+        <target>新用户标志的状态</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Status of new pages</source>
+        <target>新网页的状态</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>Status of new groups</source>
+        <target>新组的状态</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>Search</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Weighting of title matches</source>
+        <target>标题粗细</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>Weighting of tag matches</source>
+        <target>标记匹配的加权</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>Weighting of partly matched tags</source>
+        <target>加权部分匹配的标签</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Weighting of tags that sound alike</source>
+        <target>加权声音相似的标签</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>Weighting of title matches that sound alike</source>
+        <target>所有权的比重相匹配的声音都</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>Weighting of category matches</source>
+        <target>类别的粗细</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Weighting of description matches</source>
+        <target>描述的粗细</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>Number of related search results</source>
+        <target>相关搜索结果的数量</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>Paging</source>
+        <target>寻呼</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Numbers of media per page on user pages</source>
+        <target>每页的媒体数量上的用户页</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>This sets the maximal number of media shown per page on user pages</source>
+        <target>每个用户页面上的网页显示，这台最大的媒体数量</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>Number of comments per page on user pages</source>
+        <target>用户页每页的意见数</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>This sets the maximal number of comments shown per page on user pages</source>
+        <target>设置每页显示在用户页面的意见的最大数目</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Number of visitors per page on user pages</source>
+        <target>用户页每页游客数</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>This sets the maximal number of visitors shown per page on user pages</source>
+        <target>设置每页显示在用户页面的访问者的最大数目</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Number of friends per page on user pages</source>
+        <target>用户页面每页朋友</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>This sets the maximal number of friends shown per page on user pages</source>
+        <target>这台的每个用户页面上的网页显示的朋友的最大数量</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>Number of blogs per page on user pages</source>
+        <target>每页博客用户页面</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>This sets the maximal number of bogs shown per page on user pages</source>
+        <target>这台的每个用户页面上的网页显示的沼泽的最大数量</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Number of groups per page in the groups box of the user</source>
+        <target>每页群体数量的用户群体“框中</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>This sets the maximal number of groups shown per page</source>
+        <target>这设置每页显示的群体的最大数量</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Number of media (thumbnail view)</source>
+        <target>多家媒体（缩略图视图）</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Maximum number of media shown per page in thumbnail view</source>
+        <target>在缩略图视图每页显示媒体的最大数量</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>Number of media (list view)</source>
+        <target>多家媒体（列表视图）</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Maximum number of media shown per page in list mode</source>
+        <target>每页显示在列表模式下的媒体的最大数量</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Number of media (big thumbnail view)</source>
+        <target>多家媒体（大缩图检视）</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Maximum number of media shown per page in big thumbnail mode</source>
+        <target>每页显示的最大数量的媒体在大缩略图模式</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Number of trackbacks on media pages per page</source>
+        <target>媒体页，每页引用通告</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>This sets the maximum number of trackbacks shown per page on media pages</source>
+        <target>这台的最大数量的每页媒体的网页上显示的引用通告</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>Number of related media per page on media pages</source>
+        <target>每页的相关媒体上媒体的网页</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>This sets the maximal number of related media shown per page on media pages</source>
+        <target>设置每页显示媒体的网页上的相关媒体的最大数目</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Number of visitors per page on media pages</source>
+        <target>介质上页每页游客人数</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>This sets the maximum number of visitors shown per page on media pages</source>
+        <target>设置每页显示媒体的网页上的旅客的最大数量</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>Number of gazing media per page on media pages</source>
+        <target>凝视着媒体的网页上每页媒体数</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>This sets the maximal number of gazing media shown per page on user pages</source>
+        <target>这台的每个用户页面上的网页显示的凝视媒体的最大数量</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Number of media comments per page</source>
+        <target>每页的媒体评论</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>This sets the maximum number of media comments per page</source>
+        <target>这台最大数量每页媒体评论</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Number of media items per row</source>
+        <target>每行的媒体项目</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>This sets the maximum number of media items shown for each row</source>
+        <target>这台媒体项目的最大数量为每行显示</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Number of trackbacks per row</source>
+        <target>每行的引用通告</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>This sets the maximum number of trackbacks shown for each row</source>
+        <target>这台的最大数量为每行显示的引用通告</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Number of categories per page</source>
+        <target>每页类别</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>This sets the maximum number of categories per page</source>
+        <target>这台类每页的最大数量</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>Number of featured category media per page</source>
+        <target>每页精选的类别资源</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>This sets the maximal number of featured category media shown per page</source>
+        <target>设置每页显示功能类别媒体的最大数目</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Number of channels per page (thumbnail view)</source>
+        <target>每页的通道数（缩略图视图）</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Maximum number of channels shown per page in thumbnail view</source>
+        <target>每页显示在缩图检视渠道的最大数量</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>Number of channels per page (list view)</source>
+        <target>每页的通道数（列表视图）</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>Maximum number of channels shown per page in list view</source>
+        <target>每页显示在列表视图中的最大通道数</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Number of channels per page (big thumbnail view)</source>
+        <target>每页的通道数（大缩图检视）</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>Maximum number of channels shown per page in big thumbnail view</source>
+        <target>每页显示在大缩图检视的最大通道数</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Number of featured channel media per page</source>
+        <target>每页媒体频道数</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>This sets the maximal number of featured channel media shown per page</source>
+        <target>设置每页显示精选频道媒体的最大数目</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Number of channel positions in main menu</source>
+        <target>在主菜单中的通道位置</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>This defines the number of channel positions in the main menu</source>
+        <target>这在主菜单中定义的通道位置</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>Number of groups per page (thumbnail view)</source>
+        <target>每页组号码（缩略图视图）</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>Maximum number of groups shown per page in thumbnail view</source>
+        <target>在缩略图视图中每页显示的群体的最大数量</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>Number of groups per page (list view)</source>
+        <target>每页群体数量（列表视图）</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Maximum number of groups shown per page in list view</source>
+        <target>每页显示的组在列表视图中的最大数量</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Number of groups per page (big thumbnail view)</source>
+        <target>每页群体数量（大缩图检视）</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Maximum number of groups shown per page in big thumbnail view</source>
+        <target>每页显示组的最大数量大缩图检视</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Number of group members per page</source>
+        <target>每页组成员</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>This sets the maximal number of group members shown per page</source>
+        <target>设置每页显示的组成员的最大数量</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>Number of forum threads per page on group pages</source>
+        <target>集团的网页上每页论坛主题</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>This sets the maximal number of forum threads shown per page on group pages</source>
+        <target>这组页，每页显示的论坛主题设置的最大数目</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>Number of groups per row</source>
+        <target>每行的群组数量</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>This sets the maximum number of groups shown for each row</source>
+        <target>该项设置每行显示最大数量</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>Number of blogs per page</source>
+        <target>每页的博客</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>This sets the maximum number of blog items per page</source>
+        <target>这台每页博客项目的最大数量</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Number of blogs per page in the blog box</source>
+        <target>在博客中每页的博客</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>This sets the maximum number of blogs per page in the blog box</source>
+        <target>设置每页的博客在博客中的最​​大数量</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Number of new blogs per page</source>
+        <target>每页的新博客</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>This sets the maximum number of new blogs per page</source>
+        <target>这台新博客每页的最大数量</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>Number of blog comments per page</source>
+        <target>每页的博客评论</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>This sets the maximum number of blog comments per page</source>
+        <target>这台最大数量每页博客评论</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Number of new blog comments per page</source>
+        <target>新的博客评论数每页</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>This sets the maximum number of new blog comments per page</source>
+        <target>这台新的博客评论每页的最大数量</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Number of forums per page</source>
+        <target>每页论坛</target>
+      </trans-unit>
+      <trans-unit id="356">
+        <source>This sets the maximum number of forum per page</source>
+        <target>这台最大数量每页论坛</target>
+      </trans-unit>
+      <trans-unit id="357">
+        <source>Number of forum comments per page</source>
+        <target>每页论坛的意见</target>
+      </trans-unit>
+      <trans-unit id="358">
+        <source>This sets the maximum number of forum comments per page</source>
+        <target>这台最大数量每页论坛的意见</target>
+      </trans-unit>
+      <trans-unit id="359">
+        <source>Number of forum threads per page</source>
+        <target>每页的论坛主题</target>
+      </trans-unit>
+      <trans-unit id="360">
+        <source>This sets the maximum number of forum threads per page</source>
+        <target>这台最大数量每页论坛主题</target>
+      </trans-unit>
+      <trans-unit id="361">
+        <source>Number of forum threads per page in the info box</source>
+        <target>在信息框数每页的论坛主题</target>
+      </trans-unit>
+      <trans-unit id="362">
+        <source>This sets the maximum number of forum threads per page in the info box</source>
+        <target>这台论坛主题每页的最大数量的信息框</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Number of blogs per page on startpage</source>
+        <target>每页上STARTPAGE博客</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>This sets the maximum number of blogs per page on the startpage</source>
+        <target>这台STARTPAGE每页博客的最大数量</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>Number of users per page on startpage</source>
+        <target>每个用户页面上STARTPAGE的数目</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>This sets the maximum number of usres per page on the startpage</source>
+        <target>这台STARTPAGE每页的最大usres</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Number of users per page</source>
+        <target>每页的用户数量</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>Maximum number of users shown per page</source>
+        <target>每页显示的最大用户数</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>Number of favourites per page on the community page</source>
+        <target>社区页面上每页的最爱</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>This sets the maximum number of favourites per page on the community page</source>
+        <target>这台社区页面上每页的最大的最爱</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>Number of items in user history per page</source>
+        <target>Number of items in user history per page</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Sets the maximum number of items in the user history per page</source>
+        <target>Sets the maximum number of items in the user history per page</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Number of users online per page</source>
+        <target>每页显示的在线用户数</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>This sets the maximum number of currently online users per page</source>
+        <target>该项设置每页显示当前在线用户的最大数目</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Community page: Number of blog entries per page</source>
+        <target>Community page: Number of blog entries per page</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>This sets the maximum number of blog entries shown on the community page</source>
+        <target>This sets the maximum number of blog entries shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Community page: Number of friend blog entries</source>
+        <target>Community page: Number of friend blog entries</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>This sets the maximum number of friend blog entries on the community page</source>
+        <target>This sets the maximum number of friend blog entries on the community page</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Community page: number of comments</source>
+        <target>Community page: number of comments</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>This sets the maximum number of comments shown on the community page</source>
+        <target>This sets the maximum number of comments shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Community page: Number of friend comments</source>
+        <target>Community page: Number of friend comments</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>This sets the maximum number of friend comments shown on the community page</source>
+        <target>This sets the maximum number of friend comments shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Community page: Number of guestbook entries</source>
+        <target>Community page: Number of guestbook entries</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>This sets the maximum number of guestbook entries shown on the community page</source>
+        <target>This sets the maximum number of guestbook entries shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Community page: Number of new users</source>
+        <target>Community page: Number of new users</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>This sets the maximum number of new users shown on the community page</source>
+        <target>This sets the maximum number of new users shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Community page: Number of rated media</source>
+        <target>Community page: Number of rated media</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>This sets the maximum number of rated media shown on the community page</source>
+        <target>This sets the maximum number of rated media shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Community page: Number of active users</source>
+        <target>Community page: Number of active users</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>This sets the maximum number of active users shown on the community page</source>
+        <target>This sets the maximum number of active users shown on the community page</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Number of friends per page</source>
+        <target>Number of friends per page</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>This sets the maximum number of friends per page</source>
+        <target>This sets the maximum number of friends per page</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Number of friend blogs per page</source>
+        <target>Number of friend blogs per page</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>This sets the maximum number of friend blogs per page</source>
+        <target>This sets the maximum number of friend blogs per page</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Number of friends per row</source>
+        <target>Number of friends per row</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>This sets the maximum number of friends shown for each row</source>
+        <target>This sets the maximum number of friends shown for each row</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>Number of messages in outbox per page</source>
+        <target>Number of messages in outbox per page</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>This sets the maximum number of messages in the outbox per page</source>
+        <target>This sets the maximum number of messages in the outbox per page</target>
+      </trans-unit>
+      <trans-unit id="399">
+        <source>Number of messages in inbox per page</source>
+        <target>Number of messages in inbox per page</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>This sets the maximum number of messages in the inbox per page</source>
+        <target>This sets the maximum number of messages in the inbox per page</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Number of search items per page</source>
+        <target>Number of search items per page</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>This sets the maximum number of search items per page on search result pages</source>
+        <target>This sets the maximum number of search items per page on search result pages</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Community page: Max Activities</source>
+        <target>Community page: Max Activities</target>
+      </trans-unit>
+      <trans-unit id="404">
+        <source>This sets the maximum number of activities on the community page</source>
+        <target>This sets the maximum number of activities on the community page</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>Components</source>
+        <target>组件</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>Disable registrations</source>
+        <target>Disable registrations</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>Disable login</source>
+        <target>Disable login</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>Disable logout</source>
+        <target>取消注销</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Disable upload</source>
+        <target>Disable upload</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>Activate private messages</source>
+        <target>Activate private messages</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>If set to true, users can send private messages</source>
+        <target>If set to true, users can send private messages</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>Activate friends</source>
+        <target>Activate friends</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>If set to true, users can make friendships</source>
+        <target>If set to true, users can make friendships</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>Activate OpenID</source>
+        <target>Activate OpenID</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>If set to true, users can optionally log in using OpenID authentication</source>
+        <target>If set to true, users can optionally log in using OpenID authentication</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Activate "New user" box</source>
+        <target>Activate "New user" box</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Activate "User online" box</source>
+        <target>激活 "在线用户" 提醒</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Enable "Media being watched" box</source>
+        <target>Enable "Media being watched" box</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>If this option is set to true, the media currently being watched is listed on the portal homepage</source>
+        <target>If this option is set to true, the media currently being watched is listed on the portal homepage</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>Enable media details</source>
+        <target>Enable media details</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>If this option is set to true, the media details is listed on the media page</source>
+        <target>If this option is set to true, the media details is listed on the media page</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Enable related media</source>
+        <target>Enable related media</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>If this option is set to true, the related media is listed on the media page</source>
+        <target>If this option is set to true, the related media is listed on the media page</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Enable "Last viewed by" box</source>
+        <target>Enable "Last viewed by" box</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>If this option is set to true, the visitors is listed on the media page</source>
+        <target>If this option is set to true, the visitors is listed on the media page</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Enable media referrer box</source>
+        <target>Enable media referrer box</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>If this option is set to true, the referrers are listed on the media page</source>
+        <target>If this option is set to true, the referrers are listed on the media page</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>Enable categories box</source>
+        <target>Enable categories box</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>If this option is set to true, the categories are listed on the media page</source>
+        <target>If this option is set to true, the categories are listed on the media page</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Enable tags box</source>
+        <target>启用标签选项</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>If this option is set to true, the tags are listed on the media page</source>
+        <target>如果该项被设为true，在资源页面显示标签</target>
+      </trans-unit>
+      <trans-unit id="432">
+        <source>Enable slider on startpage</source>
+        <target>Enable slider on startpage</target>
+      </trans-unit>
+      <trans-unit id="434">
+        <source>Enable community</source>
+        <target>Enable community</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>If set to true, community features are activated</source>
+        <target>If set to true, community features are activated</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Enable groups</source>
+        <target>启用群组</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>If set to true, group features are activated</source>
+        <target>If set to true, group features are activated</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Enable channels</source>
+        <target>Enable channels</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>If set to true, channels are activated</source>
+        <target>If set to true, channels are activated</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Enable blog</source>
+        <target>启用博客</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>If set to true, blogs are activated</source>
+        <target>If set to true, blogs are activated</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>Enable forum</source>
+        <target>Enable forum</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>If set to true, forums are activated</source>
+        <target>If set to true, forums are activated</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>Rich text editor</source>
+        <target>富文本编辑器</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>Permissions</source>
+        <target>权限</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>Anonymous user ID</source>
+        <target>Anonymous user ID</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>This is the internal user ID that is used for not logged in users (best not to be changed)</source>
+        <target>This is the internal user ID that is used for not logged in users (best not to be changed)</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Anymous user role</source>
+        <target>Anymous user role</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>This defines the role of non-registered users</source>
+        <target>This defines the role of non-registered users</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Administrator role</source>
+        <target>Administrator role</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>This defines the role of administrators</source>
+        <target>This defines the role of administrators</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>Moderator role</source>
+        <target>Moderator role</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>This defines the role of moderators</source>
+        <target>This defines the role of moderators</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Registered user role</source>
+        <target>Registered user role</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>This defines the default role of registered users</source>
+        <target>This defines the default role of registered users</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Channel manager role</source>
+        <target>Channel manager role</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>This defines the default role of channel managers</source>
+        <target>This defines the default role of channel managers</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>Channel moderator role</source>
+        <target>Channel moderator role</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>This defines the default role of channel moderators</source>
+        <target>This defines the default role of channel moderators</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>Channel user role</source>
+        <target>Channel user role</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>This defines the default role of channel users</source>
+        <target>This defines the default role of channel users</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Google Analytics</source>
+        <target>Google Analytics（分析）</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>Google Analytics ID</source>
+        <target>的Google Analytics（分析）ID</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>To set the tracking with Google Analytics, you must enter here the tracker ID (eg UA-1234567-12).</source>
+        <target>To set the tracking with Google Analytics, you must enter here the tracker ID (eg UA-1234567-12).</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Anonymize ip addresses</source>
+        <target>Anonymize ip addresses</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>Tells Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage.</source>
+        <target>Tells Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage.</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>Backend</source>
+        <target>后端</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Overview: maximum length of texts</source>
+        <target>Overview: maximum length of texts</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>before</source>
+        <target>前</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>second</source>
+        <target>第二</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>seconds</source>
+        <target>秒</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>minute</source>
+        <target>分钟</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>minutes</source>
+        <target>分钟</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>hour</source>
+        <target>小时</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>hours</source>
+        <target>小时</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>day</source>
+        <target>一天</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>days</source>
+        <target>天</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>month</source>
+        <target>一个月</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>months</source>
+        <target>个月</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>year</source>
+        <target>一年</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>years</source>
+        <target>年</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>in @timediff</source>
+        <target>在 @timediff</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>@timediff ago</source>
+        <target>@timediff  之前</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>List of allowed document extensions</source>
+        <target>List of allowed document extensions</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>List of allowed document extensions will be displayed in the browser</source>
+        <target>List of allowed document extensions will be displayed in the browser</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Hint: This document will not displayed in browsers. You can even @download_link it and open it in a suitable program on your computer.</source>
+        <target>Hint: This document will not displayed in browsers. You can even @download_link it and open it in a suitable program on your computer.</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>download</source>
+        <target>下载</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>Default country</source>
+        <target>Default country</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>Sets the default country of the portal</source>
+        <target>Sets the default country of the portal</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Alternative translation source</source>
+        <target>Alternative translation source</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Sets the alternative translation source</source>
+        <target>Sets the alternative translation source</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>Enable documents</source>
+        <target>Enable documents</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>If set to true, documents can be uploaded in the portal</source>
+        <target>If set to true, documents can be uploaded in the portal</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Show page in the document section</source>
+        <target>Show page in the document section</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>Enable HTML5 player</source>
+        <target>Enable HTML5 player</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>NOTE: All previous media can not be played with the HTML5 player, as these do not exist in the correct format.</source>
+        <target>NOTE: All previous media can not be played with the HTML5 player, as these do not exist in the correct format.</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>Portal logo (mobile)</source>
+        <target>Portal logo (mobile)</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>This is the file that is used as a logo for your portal in the mobile template</source>
+        <target>This is the file that is used as a logo for your portal in the mobile template</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>The medium can not be played with this browser.</source>
+        <target>The medium can not be played with this browser.</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Activate guestbooks</source>
+        <target>Activate guestbooks</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>If set to true, users can add guestbook entries to other users</source>
+        <target>If set to true, users can add guestbook entries to other users</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>Number of featured media on media overview page</source>
+        <target>在资源页面显示的精选媒体数</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>Maximum Number of featured media shown per page on media overview page</source>
+        <target>在浏览媒体页面显示的最大精选媒体数</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>Number of channel media per page (thumbnail view)</source>
+        <target>Number of channel media per page (thumbnail view)</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>This sets the maximal number of channel media shown per page in thumbnail view</source>
+        <target>This sets the maximal number of channel media shown per page in thumbnail view</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>Number of channel media per page (list view)</source>
+        <target>Number of channel media per page (list view)</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>This sets the maximal number of channel media shown per page in list view</source>
+        <target>This sets the maximal number of channel media shown per page in list view</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Number of channel media per page (big thumbnail view)</source>
+        <target>Number of channel media per page (big thumbnail view)</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>This sets the maximal number of channel media shown per page in big thumbnail view</source>
+        <target>This sets the maximal number of channel media shown per page in big thumbnail view</target>
+      </trans-unit>
+      <trans-unit id="510">
+        <source>Number of media on media overview page (thumbnail view)</source>
+        <target>Number of media on media overview page (thumbnail view)</target>
+      </trans-unit>
+      <trans-unit id="511">
+        <source>Maximum number of media shown per page on media overview page in thumbnail view</source>
+        <target>Maximum number of media shown per page on media overview page in thumbnail view</target>
+      </trans-unit>
+      <trans-unit id="512">
+        <source>Number of media on media overview page (list view)</source>
+        <target>在浏览页面显示的资源数 (列表视图)</target>
+      </trans-unit>
+      <trans-unit id="513">
+        <source>Maximum number of media shown per page on media overview page in list mode</source>
+        <target>在列表模式下每页显示的最大媒体数目</target>
+      </trans-unit>
+      <trans-unit id="514">
+        <source>Number of media on media overview page (big thumbnail view)</source>
+        <target>在浏览页面显示的资源数(大缩略图视图)</target>
+      </trans-unit>
+      <trans-unit id="515">
+        <source>Maximum number of media shown per page on media overview page in big thumbnail mode</source>
+        <target>在大缩略图模式下每页显示的最大媒体数目</target>
+      </trans-unit>
+      <trans-unit id="516">
+        <source>Enable media player on startpage</source>
+        <target>Enable media player on startpage</target>
+      </trans-unit>
+      <trans-unit id="517">
+        <source>If this option is set to true, the media player will be displayed on startpage</source>
+        <target>If this option is set to true, the media player will be displayed on startpage</target>
+      </trans-unit>
+      <trans-unit id="518">
+        <source>Enable featured media box on startpage</source>
+        <target>在开始页面启用精选资源选项</target>
+      </trans-unit>
+      <trans-unit id="519">
+        <source>If this option is set to true, the featured media box will be displayed on startpage</source>
+        <target>如果该项被设为true，精选媒体将会显示在首页</target>
+      </trans-unit>
+      <trans-unit id="520">
+        <source>Download videos</source>
+        <target>下载视频</target>
+      </trans-unit>
+      <trans-unit id="521">
+        <source>If set to true, videos can be downloaded</source>
+        <target>If set to true, videos can be downloaded</target>
+      </trans-unit>
+      <trans-unit id="522">
+        <source>Download photos</source>
+        <target>下载图片</target>
+      </trans-unit>
+      <trans-unit id="523">
+        <source>If set to true, photos can be downloaded</source>
+        <target>If set to true, photos can be downloaded</target>
+      </trans-unit>
+      <trans-unit id="524">
+        <source>Download audio files</source>
+        <target>下载的音频文件</target>
+      </trans-unit>
+      <trans-unit id="525">
+        <source>If set to true, audio files can be downloaded</source>
+        <target>If set to true, audio files can be downloaded</target>
+      </trans-unit>
+      <trans-unit id="526">
+        <source>Download documents</source>
+        <target>文件下载</target>
+      </trans-unit>
+      <trans-unit id="527">
+        <source>If set to true, documents can be downloaded</source>
+        <target>If set to true, documents can be downloaded</target>
+      </trans-unit>
+      <trans-unit id="528">
+        <source>Show more</source>
+        <target>显示更多</target>
+      </trans-unit>
+      <trans-unit id="529">
+        <source>Show less</source>
+        <target>显示更少</target>
+      </trans-unit>
+      <trans-unit id="530">
+        <source>Enable Captcha</source>
+        <target>Enable Captcha</target>
+      </trans-unit>
+      <trans-unit id="531">
+        <source>Captcha library</source>
+        <target>Captcha library</target>
+      </trans-unit>
+      <trans-unit id="532">
+        <source>If this option is set to true, the slider will be displayed on startpage</source>
+        <target>If this option is set to true, the slider will be displayed on startpage</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

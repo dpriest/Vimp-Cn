@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 2 2011-06-28 17:27:54Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-04-13T22:17:04Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Error submitting form</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>You have attempted to queue too many files.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>You have reached the upload limit.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>You may upload up to @count files.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>You may only upload one file.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>The file you selected is too big.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>The file you selected is empty. Please select another file.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>The file you choose is not an allowed file type.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>An error occurred in the upload. Try again later.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Pending...</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Upload cancelled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>On the server are not enough space for uploads available!</source>
+        <target>服务器上没有足够的空间提供上传</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Uploading...</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Complete.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>File rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>There is a configuration problem. Currently, no upload possible.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Upload error</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Upload failed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Server (I/O) error</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Security error</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Upload limit exceeded. No other file can be uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Failed validation. Upload skipped.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Upload stopped</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>@count files uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>1 file uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>You are not authorized to upload media.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Find address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Use address data</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>The media has been uploaded and is now being converted.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Public - everyone can see this medium (recommended)</source>
+        <target>公开 - 每个人都可以看到这个资源 (推荐)</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Private - this medium will not be shown in the portal</source>
+        <target>私有 - 该资源不会公开显示在网页上</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>You have to upload a media.</source>
+        <target>你需要上传一个资源</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Title</source>
+        <target>标题</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Description</source>
+        <target>描述</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Tags</source>
+        <target>标签</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>meta tag description</source>
+        <target>媒体标签介绍</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>meta tag keywords</source>
+        <target>媒体标签关键词</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>meta tag author</source>
+        <target>媒体标签作者</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>meta tag copyright</source>
+        <target>标签版权</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Category</source>
+        <target>类别</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Published</source>
+        <target>发布方式</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Tags are certain keywords you can assign to a medium to help people find it. Separate several tags by comma.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Choose at least one category for your medium.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Media file required.</source>
+        <target>需要指定资源文件</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Upload medium</source>
+        <target>上传资源</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Media</source>
+        <target>媒体</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Save changes</source>
+        <target>保存更改</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Upload queue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Available file formats</source>
+        <target>允许上传的格式</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>load...</source>
+        <target>载入...</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Maximum file size</source>
+        <target>最大文件大小</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Uploading copyrighted or inappropriate material is prohibited.</source>
+        <target>禁止上传受版权保护的或不健康的资源。</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Homepage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>POST exceeded maximum allowed size.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>There is no error, the file uploaded with success.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>The uploaded file exceeds the upload_max_filesize directive in php.ini.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The uploaded file was only partially uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>No file was uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Missing a temporary folder.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Failed to write file to disk.</source>
+        <target>写入磁盘失败</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>A PHP extension stopped the file upload.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>No upload found in $_FILES for @upload_name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Upload failed is_uploaded_file test.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>File has no name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>File exceeds the maximum allowed size.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>File size outside allowed lower bound.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Invalid file name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Invalid file extension.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Invalid archive content.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Can't open archive.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>File could not be saved.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>File was saved with file id @file_id.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Upload is disabled.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

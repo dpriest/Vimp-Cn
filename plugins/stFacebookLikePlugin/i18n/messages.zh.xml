@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 2 2011-06-28 17:27:58Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-02-24T16:54:54Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Facebook Like settings</source>
+        <target>FACEBOOK一样设置</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Facebook Like</source>
+        <target>FACEBOOK一样</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Enable Facebook Like</source>
+        <target>启用FACEBOOK一样</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>If set to true, the Facebook like button will be displayed.</source>
+        <target>如果设置为true，Facebook的如按钮就会显示出来。</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Layout Style</source>
+        <target>布局样式</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Determines the size and shape of the button.</source>
+        <target>确定按钮的大小和形状。</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Show Faces</source>
+        <target>显示面</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Show profile pictures below the button.</source>
+        <target>下面的按钮显示的资料图片。</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Verb to display</source>
+        <target>动词显示</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>The verb to display in the button. Currently only 'like' and 'recommend' are supported.</source>
+        <target>显示在按钮的动词。目前，只有“象”和“建议”的支持。</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Font</source>
+        <target>字体</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The font of the plugin.</source>
+        <target>插件的字体。</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Color Scheme</source>
+        <target>配色方案</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>The color scheme of the plugin.</source>
+        <target>插件的配色方案。</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>like</source>
+        <target>像</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>recommend</source>
+        <target>建议</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>light</source>
+        <target>光</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>dark</source>
+        <target>黑暗</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

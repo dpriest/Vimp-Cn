@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 2 2011-06-28 17:28:10Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-04-13T21:11:24Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Templates settings</source>
+        <target>模板设置</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Templates</source>
+        <target>模板</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Template</source>
+        <target>模板</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Template skin</source>
+        <target>模板皮肤</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>This platform does not contain content that can be displayed in the Web TV mode.</source>
+        <target>这个平台不包含的内容可以在网络电视模式显示。</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Remove from playlist</source>
+        <target>从播放列表移除</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Now playing</source>
+        <target>现在播放</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Add to playlist</source>
+        <target>添加到播放列表</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Return to overview</source>
+        <target>返回到概览</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>AutoFill: on</source>
+        <target>自动填充：ON</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>AutoFill: off</source>
+        <target>自动填充：关</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The communication to the player could not be initialized. This may be a browser problem. Please reload the page.</source>
+        <target>无法初始化球员的沟通。这可能是浏览器问题。请重新载入网页。</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>playlist</source>
+        <target>播放列表</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Loading data ...</source>
+        <target>数据载入中... ...</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Open</source>
+        <target>打开</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>New</source>
+        <target>新</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>AutoFill automatically populates the playlist with videos that are related to the current video.</source>
+        <target>“自动填充”自动填充，都涉及到当前的视频影片的播放列表。</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>AutoFill</source>
+        <target>“自动填充”</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Links</source>
+        <target>链接</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>right</source>
+        <target>正确的</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Related Media</source>
+        <target>相关媒体</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Categories</source>
+        <target>分类</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Media of user</source>
+        <target>媒体用户</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Search</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Save playlist</source>
+        <target>保存播放列表</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Legal Info</source>
+        <target>法律信息</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Terms of Use</source>
+        <target>使用条款</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Privacy Policy</source>
+        <target>隐私权政策</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Disclaimer</source>
+        <target>免责声明</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Upload medium</source>
+        <target>上传资源</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Save changes</source>
+        <target>保存更改</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Hello,</source>
+        <target>您好，</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>@mail wants to let you know:</source>
+        <target>@邮件想让你知道：</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>At: @media_link</source>
+        <target>：@ media_link</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Kind Regards,</source>
+        <target>亲切的问候，</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Hint: Unfortunately your browser does not have Flash Player installed or the Flash Player version is outdated. You need Flash Player to view media in this community. @flash_link</source>
+        <target>提示：不幸的是，您的浏览器没有安装Flash Player或Flash Player的版本已经过时。您需要Flash Player才能看这个社会中的媒体。 @ flash_link</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Download Flash Player</source>
+        <target>下载Flash Player</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Permanent link</source>
+        <target>永久链接</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Embed</source>
+        <target>嵌入</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Social bookmarks</source>
+        <target>社会书签</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Recommend content</source>
+        <target>推荐内容</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>E-mail address</source>
+        <target>E - mail地址</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Message</source>
+        <target>消息</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Send</source>
+        <target>发送</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>close</source>
+        <target>关闭</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Available file formats</source>
+        <target>允许上传的格式</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>load...</source>
+        <target>载入...</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Maximum file size</source>
+        <target>最大文件大小</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Uploading copyrighted or inappropriate material is prohibited.</source>
+        <target>禁止上传受版权保护的或不健康的资源。</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Login</source>
+        <target>登录</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Forgot your password?</source>
+        <target>忘记密码？</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Please enter the e-mail address you registered with. If it is correct a new password will be sent to this address immediately.</source>
+        <target>请输入您注册的E - mail地址。如果它是正确的的，一个新的密码将被立即发送到该地址。</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>send</source>
+        <target>发送</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Hello @user,</source>
+        <target>你好@用户，</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Your password has been changed.</source>
+        <target>您的密码已被更改。</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>New password: @password</source>
+        <target>新密码：密码</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Hint</source>
+        <target>暗示</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>go</source>
+        <target>去</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Enable mobile template</source>
+        <target>启用移动模板</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Template WebTV</source>
+        <target>模板的WebTV</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Template skin WebTV</source>
+        <target>模板皮肤的WebTV</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Template Backend</source>
+        <target>模板后端</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Template skin Backend</source>
+        <target>模板皮肤后端</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Template mobile</source>
+        <target>模板移动</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Template skin mobile</source>
+        <target>模板皮肤移动</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Media</source>
+        <target>媒体</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

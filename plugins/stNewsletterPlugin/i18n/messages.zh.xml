@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 2 2011-06-28 17:28:18Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-02-09T20:42:45Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Newsletters</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Default sender e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>This e-mail address is used by default for new newsletters.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Default sender name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>This name is used by default for new newsletters.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Default reply e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>This e-mail address is used by default for new newsletters as reply address.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Default reply name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>This name is used by default for new newsletters as reply name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Numbers of newsletter issues per page</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>This sets the maximal number of newsletter issues per page.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Numbers of e-mails per execution</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This sets the maximum number of e-mails sent per execution of the sending task. (default: 0 = unlimited)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>The newsletter could not be found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Last edited: @entry</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>The newsletter issue could not be found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Already running newsletter issue can not be changed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>The test newsletter could not send.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>The test newsletter was sent.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>The newsletter subscription could not be found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Overview</source>
+        <target>简介</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Create</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>No matching newsletters found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Created at</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Status</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Add</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Update</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Reset</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Edit</source>
+        <target>编辑</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Issues</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Create Issue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Subscriptions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Are you sure?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>No matching newsletter issues found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sender e-mail</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Sender name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>No. sent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Execute at</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Started at</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Finished at</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>No matching newsletter subscriptions found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Users</source>
+        <target>用户</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Sender e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Reply e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Reply name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Message HTML</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Message Text</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Receivers for test delivery (Enter the user names separated by commas)</source>
+        <target>测试发送接收 (输入用户名，以逗号隔开)</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Please enter subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Please enter HTML message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Please enter text message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Please enter sender e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Please enter a valid sender e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Please enter sender name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Please enter reply e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Please enter a valid reply e-mail address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Please enter reply name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Please enter the execution time</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>The execution time must be in the future</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Add newsletter issue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Edit newsletter issue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Test mail</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Already sent newsletters can not be edited.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Add newsletter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Edit newsletter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Newsletter index</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Newsletter issue index</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Newsletter subscriptions index</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Newsletter Issue</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Newsletter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Please log in first to edit your personal profile.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>You are not allowed to edit this profile.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Homepage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Community</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Newsletter archive</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Manage your newsletter subscriptions here:</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Subscribe newsletter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>My newsletters</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Send</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Automatic newsletter subscription</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>If set to true, then the newsletters will automatically be subscribed at registration of a new user.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

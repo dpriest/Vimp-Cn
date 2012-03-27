@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 2 2011-06-28 17:28:31Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-01-27T07:44:18Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Transcoder settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Transcoder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>ViMP Transcoding Service account</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>ViMP Transcoding service access key</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>ViMP Transcoding-Service URL of transcoding servers</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

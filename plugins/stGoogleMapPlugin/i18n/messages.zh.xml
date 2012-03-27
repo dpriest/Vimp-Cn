@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 2 2011-06-28 17:28:14Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-01-27T07:44:18Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Google Maps settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Google Maps</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Google Maps API Key</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Google Maps for Users</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Google Maps for Media</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Default longitude for maps</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Default latitude for maps</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Default zoom level for maps</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Please enter an address.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Longitude</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Latitude</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Zoom</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>To tag an object, enter an address and click on "Find address" or simply click a location on the map. In order to save a tag, you must enter an address.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Find address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Use address data</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Google maps is only available with javascript enabled in a compatible browser</source>
+        <target>谷歌地图是用JavaScript在兼容的浏览器启用</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

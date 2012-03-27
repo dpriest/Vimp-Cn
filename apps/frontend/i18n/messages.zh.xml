@@ -1,0 +1,3194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 388 2011-09-20 19:09:36Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-04-13T23:25:31Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Newest media</source>
+        <target>最新的媒体</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Latest</source>
+        <target>最新</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Search</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Legal Info</source>
+        <target>法律信息</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Terms of Use</source>
+        <target>使用条款</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Privacy Policy</source>
+        <target>隐私权政策</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Disclaimer</source>
+        <target>免责声明</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Links</source>
+        <target>链接</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>The blog could not be displayed.</source>
+        <target>博客无法显示。</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>You are not authorized to do this.</source>
+        <target>您没有被授权这样做。</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Your new blog has been added.</source>
+        <target>你的新博客已经添加。</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The comment could not be saved. Please check your input.</source>
+        <target>注释无法保存。请检查您的输入。</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>The comment could not be deleted.</source>
+        <target>注释不能删除。</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Title</source>
+        <target>标题</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Text</source>
+        <target>文本</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Blogs</source>
+        <target>博客</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Add</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>blog entry</source>
+        <target>博客条目</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Send</source>
+        <target>发送</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Edit</source>
+        <target>编辑</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Are you sure?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>by</source>
+        <target>通过</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>@Anz comments</source>
+        <target>澳新银行注释</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>wrote @timediff</source>
+        <target>写于 @timediff</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>No comments yet.</source>
+        <target>还没有评论。</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Write your comment</source>
+        <target>留下您的评论</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Reply</source>
+        <target>回复</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>more</source>
+        <target>更多</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>@timediff</source>
+        <target>@timediff</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>read more</source>
+        <target>阅读更多</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Post a blog entry</source>
+        <target>发布博客条目</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Filter:</source>
+        <target>根据：</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>All</source>
+        <target>所有</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Mine</source>
+        <target>我</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>My friends' blog entries</source>
+        <target>我的朋友“博客条目</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>No blog found.</source>
+        <target>没有找到博客。</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>New comments</source>
+        <target>新评论</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>The category could not be found.</source>
+        <target>该类别无法被发现。</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Categories</source>
+        <target>分类</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Featured</source>
+        <target>精选</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Channels</source>
+        <target>通道</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Media</source>
+        <target>媒体</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>The channel could not be found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>You are not allowed to view this channel.</source>
+        <target>您没有权限查看该频道</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>You are not allowed to edit this channel.</source>
+        <target>不允许您编辑此通道。</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>You are not allowed to manage this channel's media.</source>
+        <target>不允许您管理这个渠道的媒体。</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>You are not allowed to add media to this channel.</source>
+        <target>您不允许添加媒体这个渠道。</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>The medium could not be found.</source>
+        <target>找不到资源</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>The medium has been assigned to this channel.</source>
+        <target>资源已经提交到这个频道</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You are not allowed to delete media from this channel.</source>
+        <target>你是不是可以从这个通道中删除媒体。</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>The medium has been deleted from this channel.</source>
+        <target>资源已经从这个频道删除。</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Invalid request</source>
+        <target>无效的请求</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>The user could not be found.</source>
+        <target>找不到该用户</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>The tag could not be found.</source>
+        <target>没有找到该标签</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Only JPG, GIF and PNG images are allowed.</source>
+        <target>只有JPG，GIF和PNG图像是允许的。</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>current image</source>
+        <target>当前图像</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>current menu image</source>
+        <target>当前菜单形象</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>View media</source>
+        <target>查看资源</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>No channel found matching the criteria.</source>
+        <target>没有找到符合条件的频道</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>back to channel detail</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Edit channel media</source>
+        <target>编辑频道媒体</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Assign</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>No matching medium found.</source>
+        <target>找不到匹配的资源。</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Manage media</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Big thumbnails</source>
+        <target>大缩略图</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Thumbnails</source>
+        <target>缩略图</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>List</source>
+        <target>名单</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>View:</source>
+        <target>视图：</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>this week</source>
+        <target>本周</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>last week</source>
+        <target>上周</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>this month</source>
+        <target>本月</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>this year</source>
+        <target>今年</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Media: @count</source>
+        <target>媒体：@计数</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>New user</source>
+        <target>新用户</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Most active users:</source>
+        <target>最活跃的用户：</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Best rated users</source>
+        <target>最受好评的用户</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>You are not authorized to do this!</source>
+        <target>您没有被授权这样做！</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The history has been cleared.</source>
+        <target>历史已被清除。</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>My profile</source>
+        <target>我的个人资料</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Favorites</source>
+        <target>我的最爱</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>History</source>
+        <target>历史</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Community</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Users</source>
+        <target>用户</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Most active user:</source>
+        <target>最活跃的用户：</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Visits: @count</source>
+        <target>访问：@计数</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>I have not logged in yet</source>
+        <target>我还没有登录</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Last visit: @timediff</source>
+        <target>上次访问：@timediff</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Registered: @timediff</source>
+        <target>注册于：@timediff</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Videos</source>
+        <target>视频</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>My videos have been viewed @count times.</source>
+        <target>我的影片已经被观看 @count 次。</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Audios</source>
+        <target>特刊</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>My audio files have been listened to @count times.</source>
+        <target>我的音频文件已听取@ count次。</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Pictures</source>
+        <target>图片</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>My pictures have been viewed @count times.</source>
+        <target>我的图片已被浏览 @count 次。</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Documents</source>
+        <target>文件</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>My documents have been read @count times.</source>
+        <target>我的文件已经阅读 @count 次。</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Youtube</source>
+        <target>YOUTUBE</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Added:</source>
+        <target>新增：</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Hits:</source>
+        <target>点击数：</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Active users</source>
+        <target>活跃​​用户</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>All users</source>
+        <target>所有用户</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>My friends</source>
+        <target>我的朋友</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>User name</source>
+        <target>用户名</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Username</source>
+        <target>用户名</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Send a PM</source>
+        <target>发送！</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>No friends added yet.</source>
+        <target>没有朋友。</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Latest guestbook entries</source>
+        <target>最新的留言簿条目</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>at @user</source>
+        <target>@用户</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>There are no comments available.</source>
+        <target>没有评论</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>No media viewed so far.</source>
+        <target>当前还没有资源被观看</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>No matching activities found</source>
+        <target>未找到配对活动</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Your friends have not posted to a blog yet.</source>
+        <target>你的朋友都没有张贴到博客。</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Latest blog entries</source>
+        <target>最新博客条目</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>There are no blog entries available.</source>
+        <target>有没有可用的博客条目。</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>Read this comment</source>
+        <target>阅读此评论</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Guestbook entries of my friends</source>
+        <target>我的朋友的留言簿条目</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>since</source>
+        <target>自</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>No users have registered yet.</source>
+        <target>没有用户尚未注册。</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Best rated</source>
+        <target>最受好评</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Users online</source>
+        <target>用户在线</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>No users currently online.</source>
+        <target>目前没有用户在线。</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Online</source>
+        <target>在线</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>most active</source>
+        <target>最活跃的</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>Forum</source>
+        <target>论坛</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Edit your comment</source>
+        <target>编辑您的评论</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Create a new thread:</source>
+        <target>创建一个新线程：</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Create</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Edit thread:</source>
+        <target>编辑主题：</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>view thread</source>
+        <target>查看话题</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Topics</source>
+        <target>主题</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Replies</source>
+        <target>回复</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Last reply</source>
+        <target>最后回复</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>No threads yet.</source>
+        <target>线程。</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>@count</source>
+        <target>@count</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>0</source>
+        <target>0</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>clock</source>
+        <target>时钟</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>@User</source>
+        <target>@用户</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>No posts yet</source>
+        <target>讯息</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>author</source>
+        <target>作者</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>New Thread</source>
+        <target>新主题</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>No posts yet.</source>
+        <target>职位。</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>@time clock</source>
+        <target>@时间时钟</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>No answers present yet</source>
+        <target>目前还没有答案</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>by @user at @thread</source>
+        <target>@ @线程用户</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>No matching comments found.</source>
+        <target>没有匹配的意见发现。</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>from @user</source>
+        <target>@用户</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>No forum threads matching the criteria.</source>
+        <target>没有相匹配的论坛主题的标准。</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Posted</source>
+        <target>发表</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>at</source>
+        <target>在</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>More comments</source>
+        <target>更多评论</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>back to top</source>
+        <target>返回顶部</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Profile of @user</source>
+        <target>@用户的个人资料</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Requests awaiting approval</source>
+        <target>请等待批准</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>Accept</source>
+        <target>接受</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>Reject</source>
+        <target>拒绝</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>There are no pending friend requests!</source>
+        <target>有没有挂起的朋友请求！</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Pending friend requests</source>
+        <target>待定好友请求</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>There are no friend requests at the moment!</source>
+        <target>目前有没有朋友请求！</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Send a friend request</source>
+        <target>发送一个朋友的要求</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>In order to take a friendship with @user, a confirmation by @user necessary. These @user gets an email from you with a call to confirm your request.</source>
+        <target>为了友谊@用户，确认由@用户必要。这些@用户从你的电子邮件与电话确认您的请求。</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Please enter a message for this request:</source>
+        <target>请输入此请求消息：</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Friends of @user</source>
+        <target>@用户之友</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>The user @user has not registered any friends</source>
+        <target>用户名@用户尚未注册任何朋友</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Confirm friend request</source>
+        <target>确认朋友的要求</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>You got a friend request from this user.</source>
+        <target>你得从这个用户的朋友请求。</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Here you can confirm that friend request or delete it.</source>
+        <target>在这里您可以确认朋友的要求，或者把它删除。</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Hello @user,</source>
+        <target>你好@用户，</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>The user @user has sent a friend request.</source>
+        <target>用户名@用户发送好友请求。</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Go to @link to answer the request.</source>
+        <target>@链接回答的请求。</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Kind Regards, @user.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Friends</source>
+        <target>朋友</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Most viewed</source>
+        <target>浏览最多的</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Comments</source>
+        <target>评论数</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>TODO</source>
+        <target>TODO</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Groups</source>
+        <target>群组</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Create new group</source>
+        <target>创建新组</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Create groups</source>
+        <target>创建组</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Edit group</source>
+        <target>编辑组</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Invite user</source>
+        <target>邀请用户</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>To (username)</source>
+        <target>（用户名）</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>or</source>
+        <target>或</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Message:</source>
+        <target>消息：</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>from %user%</source>
+        <target>从％USER％</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Edit members</source>
+        <target>编辑成员</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>invited</source>
+        <target>邀请</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>illegal</source>
+        <target>非法</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Member</source>
+        <target>会员</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>No users found matching the criteria.</source>
+        <target>没有用户发现符合条件的。</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>@user created a new group</source>
+        <target>@用户创建了一个新的组</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>view group</source>
+        <target>查看组</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>@user joined group @group</source>
+        <target>加入集团@ @用户组</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>(@count members)</source>
+        <target>（@count 个成员）</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>@user has assigned a new medium to the group</source>
+        <target>@user 提交了一个新资源到这个群组</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>@group</source>
+        <target>@组</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>@state group</source>
+        <target>@国家组</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>private</source>
+        <target>私人</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>public</source>
+        <target>公开</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>from: @user</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Created at @date</source>
+        <target>创建于@日期</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>@count members</source>
+        <target>@count 成员</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>No media assigned yet.</source>
+        <target>没有媒体尚未分配。</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Join this group</source>
+        <target>加入这个小组</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Leave this group</source>
+        <target>离开这个小组</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Manage users</source>
+        <target>管理用户</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Create new forum</source>
+        <target>创建新论坛</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>back to profile</source>
+        <target>返回个人资料</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Confirm invitation</source>
+        <target>确认邀请</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>You were invited to group @group by another user.</source>
+        <target>你被邀请到另一个用户组@组。</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Here you can accept or reject the invitation.</source>
+        <target>在这里您可以接受或拒绝邀请。</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>There is no group matching the criteria.</source>
+        <target>没有符合条件的集团。</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>There are no members subscribed to this group.</source>
+        <target>有订阅本组的任何成员。</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>user @user invited you with the following message:</source>
+        <target>用户，用户邀请您以下消息：</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>to group @group.</source>
+        <target>@组组。</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>To accept or reject your membership in this group please follow this link</source>
+        <target>要接受或拒绝您在这个小组的成员，请点击此链接</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Kind Regards,</source>
+        <target>亲切的问候，</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Edit medium</source>
+        <target>编辑介质</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Save changes</source>
+        <target>保存更改</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>Report this medium</source>
+        <target>举报该资源</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Please enter a detailed description of this violation so that we can check whether the video or the user violates our Community Guidelines or unsuitable for particular user. An abuse of this feature is also a violation of the community guidelines, so you should you be sure what you're doing there!</source>
+        <target>请输入这一违规行为的详细描述，使我们可以检查视频或用户是否违反我们的社区准则或不适合特定的用户。滥用此功能，也违反了社会准则，所以你应该确保你在那里做什么！</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Related Media: </source>
+        <target>相关媒体：</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Upload medium</source>
+        <target>上传资源</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Description:</source>
+        <target>描述：</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Bookmarks:</source>
+        <target>书签：</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Related Media</source>
+        <target>相关媒体</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Track Backs</source>
+        <target>轨道备份</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Add to your favorites list.</source>
+        <target>加入您的收藏夹列表。</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Remove from your favorites list.</source>
+        <target>从收藏夹列表中删除。</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>@user commented on @title</source>
+        <target>@user 对 @title 做了评论</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>@user added @title to favorites</source>
+        <target>@user 收藏了 @title</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>@user uploaded new media</source>
+        <target>@用户上传的新媒体</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Categories:</source>
+        <target>分类：</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>There were no specified categories</source>
+        <target>有没有指定的类别</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>@count comments</source>
+        <target>@count 条评论</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Details of medium</source>
+        <target>资源详情</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Uploaded by</source>
+        <target>上传</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Send me a private message</source>
+        <target>给我悄悄话</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>Uploaded at</source>
+        <target>载于</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Duration</source>
+        <target>时间</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Hits</source>
+        <target>点击</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Tags</source>
+        <target>标签</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Embed-Code</source>
+        <target>嵌入代码</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Hint: Unfortunately your browser does not have Flash Player installed or the Flash Player version is outdated. You need Flash Player to view media in this community. @flash_link</source>
+        <target>提示：不幸的是，您的浏览器没有安装Flash Player或Flash Player的版本已经过时。您需要Flash Player才能看这个社会中的媒体。 @ flash_link</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Download Flash Player</source>
+        <target>下载Flash Player</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>No media viewed yet.</source>
+        <target>尚未媒体观看。</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Hits: @Views</source>
+        <target>点击数：@Views</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Hello @user</source>
+        <target>您好@用户</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>The video with the title @title has been reported by @user with the following reason:</source>
+        <target>视频标题@标题@用户已报告以下原因：</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>With the following link you can see and edit the message:</source>
+        <target>使用以下链接，你可以看到和编辑的消息：</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Hello,</source>
+        <target>您好，</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>@mail wants to let you know:</source>
+        <target>@邮件想让你知道：</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>At: @media_link</source>
+        <target>：@ media_link</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Edit own medium</source>
+        <target>编辑自己的资源</target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source>Change status of medium</source>
+        <target>更改资源状态</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>Are you sure you want to change the status of this medium?</source>
+        <target>你确定你想改变这种媒介的地位吗？</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Delete medium</source>
+        <target>删除介质</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Are you sure you want to delete this medium?</source>
+        <target>你确定要删除这个媒介吗？</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Back</source>
+        <target>返回</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Next</source>
+        <target>下一页</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>Rating: @rating</source>
+        <target>评价：@评级</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Rating</source>
+        <target>评价</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>@Count click(s)</source>
+        <target>点击了@Count 次</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>There are no websites linking to this medium at the moment.</source>
+        <target>有没有网站连接的那一刻，这种媒介。</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>More media</source>
+        <target>更多的媒体</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>@title from @date uploaded by @user</source>
+        <target>@ @用户上传的标题@日期</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>RSS</source>
+        <target>RSS</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Permanent link</source>
+        <target>永久链接</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Embed</source>
+        <target>嵌入</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Social bookmarks</source>
+        <target>社会书签</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>Recommend content</source>
+        <target>推荐内容</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>E-mail address</source>
+        <target>E - mail地址</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Message</source>
+        <target>消息</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>close</source>
+        <target>关闭</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>Tags:</source>
+        <target>标签：</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>There are no keywords present.</source>
+        <target>有没有目前的关键字。</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>uploaded: @timediff</source>
+        <target>上传于：@timediff</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>Add favorite</source>
+        <target>加入收藏</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Delete favorite</source>
+        <target>删除FAVORITE</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>No media found.</source>
+        <target>找不到资源</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>Last viewed by</source>
+        <target>最后查看</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>This medium has not been viewed yet.</source>
+        <target>这种介质没有被观看。</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>Messages</source>
+        <target>消息</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>Are you sure you want to delete this message?</source>
+        <target>你确定要删除此消息吗？</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>Your inbox is empty.</source>
+        <target>您的收件箱是空的。</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Write new message</source>
+        <target>写新邮件</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>Subject:</source>
+        <target>标题：</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Your outbox is empty.</source>
+        <target>您的发件箱是空的。</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Message by @user</source>
+        <target>@用户留言</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>Message to @user</source>
+        <target>@用户发送消息</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>The recycle bin is empty.</source>
+        <target>回收站是空的。</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>You have received a new message.</source>
+        <target>您收到了新邮件。</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Click the following link to get to your inbox.</source>
+        <target>点击以下链接到您的收件箱。</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Extended search</source>
+        <target>扩展搜索</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>User</source>
+        <target>用户</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>404 - Page Not Found</source>
+        <target>404 - 找不到网页</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Available file formats</source>
+        <target>允许上传的格式</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>load...</source>
+        <target>载入...</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Maximum file size</source>
+        <target>最大文件大小</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>Uploading copyrighted or inappropriate material is prohibited.</source>
+        <target>禁止上传受版权保护的或不健康的资源。</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>You can change the password here</source>
+        <target>你可以在这里更改密码</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Change password</source>
+        <target>更改密码</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>Deletion of your user account</source>
+        <target>删除您的用户帐户</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>We have sent you a confirmation link via e-mail.</source>
+        <target>我们已经通过电子邮件向您发送了确认链接。</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>Delete profile of @user</source>
+        <target>删除@用户的个人资料</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Are you sure you want to permanently delete this profile?</source>
+        <target>您确定要永久删除此配置文件吗？</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>Edit profile</source>
+        <target>编辑个人资料</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>My profil</source>
+        <target>我PROFIL</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>Report user</source>
+        <target>举报用户</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Please enter a detailed description of this violation so that we can check if the user violates our Community Guidelines or unsuitable for particular user. An abuse of this feature is also a violation of the community guidelines, so you should you be sure what you're doing there!</source>
+        <target>请输入这一违规行为的详细描述，使我们可以检查用户是否违反我们的社区准则或不适合特定的用户。滥用此功能，也违反了社会准则，所以你应该确保你在那里做什么！</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>Login</source>
+        <target>登录</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Not signed up yet?</source>
+        <target>还没有注册？</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>Register now.</source>
+        <target>现在注册。</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Forgot your password?</source>
+        <target>忘记密码？</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>Please enter the e-mail address with which you have registered. Matches the address you will be sent to a newly generated password.</source>
+        <target>请输入您注册的E - mail地址。你将被发送到一个新生成的密码的地址匹配。</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Registration</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>Submit registration</source>
+        <target>提交注册</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>This profile has been deleted.</source>
+        <target>此配置文件已被删除。</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>My blog entries</source>
+        <target>我的博客条目</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Blog entries of @user</source>
+        <target>@用户的所有博客</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>My groups</source>
+        <target>我的群组</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>Groups of @user</source>
+        <target>@user 的群组</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>My media</source>
+        <target>我的媒体</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Media of @user</source>
+        <target>@用户的媒体</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>About me:</source>
+        <target>关于我：</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Logged in as</source>
+        <target>用户名</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>My channels</source>
+        <target>我的频道</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>This user has not added any favorites yet.</source>
+        <target>该用户还没有加入任何最爱。</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>This user is not a member of any group.</source>
+        <target>该用户不属于任何团体的成员。</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Your e-mail address has been changed.</source>
+        <target>你的e - mail地址已被更改。</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Please click on the following link to validate your e-mail address:</source>
+        <target>请点击下面的链接以验证您的e - mail地址：</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>The user with the name @title was reported by @user with the following reason:</source>
+        <target>@用户与用户名@标题报道与以下原因：</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>Hello @admin,</source>
+        <target>你好，管理员，</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>The user @user has just verified his e-mail address at @name and needs to be verified by an administrator now.</source>
+        <target>用户，用户只是验证了他的e - mail地址，在@名称，需要由管理员核实。</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>You can do this in the administration area.</source>
+        <target>您可以在管理面板做如下事情。</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>To delete your account at @name, just click on this link:</source>
+        <target>要删除您的 @name 帐户，请点击此链接：</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Kind Regards, @portal</source>
+        <target>亲切的问候，@门户</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Your password has been changed.</source>
+        <target>您的密码已被更改。</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>New password: @password</source>
+        <target>新密码：密码</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>For your account a new password is requested. Please click on the following link to receive a new password.</source>
+        <target>您的帐户请求重置密码。请点击下面的链接，获取一个新密码。</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>Thank you for your registration at @name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>To validate your account click the following link:</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>Actions</source>
+        <target>动作</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>Edit your profile</source>
+        <target>编辑您的个人资料</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Upload your medium now!</source>
+        <target>现在上传您的介质！</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Manage friends</source>
+        <target>管理朋友</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>Clear history</source>
+        <target>清除历史记录</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Do you really want to clear your history?</source>
+        <target>你真的想清楚你的历史？</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>Delete profile</source>
+        <target>删除个人资料</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>Add as a friend</source>
+        <target>添加为朋友</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Moderator</source>
+        <target>主持人</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Last modified by </source>
+        <target>最后修改</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>No comments available yet.</source>
+        <target>还没有评论。</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Send comment</source>
+        <target>发送评论</target>
+      </trans-unit>
+      <trans-unit id="356">
+        <source>The user has not uploaded any media.</source>
+        <target>该用户还没有上传任何媒体。</target>
+      </trans-unit>
+      <trans-unit id="357">
+        <source>My latest video</source>
+        <target>我的最新影片</target>
+      </trans-unit>
+      <trans-unit id="358">
+        <source>My latest picture</source>
+        <target>我的最新画面</target>
+      </trans-unit>
+      <trans-unit id="359">
+        <source>My latest audio file</source>
+        <target>我最新的音频文件</target>
+      </trans-unit>
+      <trans-unit id="360">
+        <source>My latest document</source>
+        <target>我的最新文件</target>
+      </trans-unit>
+      <trans-unit id="361">
+        <source>Age: @age</source>
+        <target>年龄：@年龄</target>
+      </trans-unit>
+      <trans-unit id="362">
+        <source>@gender</source>
+        <target>@性别</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>male</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>female</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>no entry</source>
+        <target>没有进入</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Profile views: @Count</source>
+        <target>资料查看：@计数</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Last Login: @timediff</source>
+        <target>上次登录：@timediff</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>OpenIDs</source>
+        <target>OpenIDs</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>Add this friend</source>
+        <target>添加这个朋友</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>Delete this friend</source>
+        <target>删除这个朋友</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>Are you sure you want to remove this user from your friends list?</source>
+        <target>你确定你想从你的朋友列表中删除此用户？</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Delete this account</source>
+        <target>删除该帐户</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Are you really sure?</source>
+        <target>你真的确定吗？</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>Delete user</source>
+        <target>删除用户</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Your profile has been visited by</source>
+        <target>您的个人资料已经被访问</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>Last visit: @date</source>
+        <target>上次访问：@日期</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Visitor</source>
+        <target>游客</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Hint</source>
+        <target>暗示</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>The group could not be found.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>You have not the necessary permissions for this forum.</source>
+        <target>你有没有这个论坛所必需的权限。</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>You are not allowed to create a post.</source>
+        <target>你是不是允许创建一个职位。</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>Thread created: @thread</source>
+        <target>线程创建：@线程</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>The thread could not be found.</source>
+        <target>该线程不能被发现。</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Your comment has been saved.</source>
+        <target>您的评论已被保存。</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>You do not have permission to edit the thread</source>
+        <target>您没有权限编辑线程</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Thread edited: @thread</source>
+        <target>主题编辑：@线程</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>You have no permission to delete the thread</source>
+        <target>您没有权限删除线程</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Thread deleted: @thread</source>
+        <target>主题删除：@线程</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>The comment could not be found.</source>
+        <target>找不到评论</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>You do not have permission to edit the comment</source>
+        <target>您没有权限编辑评论</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Comment edited: @comment</source>
+        <target>编辑点评：@评论</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>You have no permission to delete the comment</source>
+        <target>您没有权限删除评论</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Comment deleted: @comment</source>
+        <target>评论删除：@评论</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>The forum could not be found.</source>
+        <target>论坛可以不被发现。</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Comment</source>
+        <target>评论</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>The invitation has been removed.</source>
+        <target>该邀请已被删除。</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>The user has been deleted from your friends.</source>
+        <target>该用户已被删除，从你的朋友。</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Your account has not been confirmed.</source>
+        <target>您的帐户还未激活。</target>
+      </trans-unit>
+      <trans-unit id="399">
+        <source>You cannot invite yourself.</source>
+        <target>你不能邀请自己。</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>The user is already a friend of yours.</source>
+        <target>用户已经是你的朋友。</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>You have already invited this user. Please wait for confirmation.</source>
+        <target>您已经邀请该用户的。请等待确认。</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Your invitation has previously been rejected. Please try again later.</source>
+        <target>先前已拒绝您的邀请。请稍后再试。</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>The user is waiting for you to confirm the invitation.</source>
+        <target>用户等待您确认的邀请。</target>
+      </trans-unit>
+      <trans-unit id="404">
+        <source>This user unfortunately not yet verified.</source>
+        <target>不幸的是，该用户尚未核实。</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>The invitation has been sent.</source>
+        <target>已寄出邀请函。</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>The e-mail address could not be found.</source>
+        <target>e - mail地址可以不被发现。</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>The e-mail could not be sent.</source>
+        <target>无法发送电子邮件。</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>The user has been added to your friends list.</source>
+        <target>该用户已被添加到您的好友列表。</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>The request has been rejected.</source>
+        <target>该请求已被拒绝。</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>You have not yet been accepted by this group.</source>
+        <target>您还没有接受这个小组。</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>You must accept the group invitation first.</source>
+        <target>您必须先接受集团邀请。</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>You are not allowed to create a new group.</source>
+        <target>您不得以创建一个新组。</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>You are not allowed to edit this group.</source>
+        <target>不允许您编辑此组。</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>This group is private. You may only join if you have an invitation</source>
+        <target>这组是私人的。你只可以加入，如果你有一个邀请</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>You must be logged in to join a group.</source>
+        <target>您必须登录在加入一个组。</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>You are already a member of this group.</source>
+        <target>您已经是该组的成员。</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Welcome to the group.</source>
+        <target>欢迎到组。</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>You must be logged in to leave a group.</source>
+        <target>您必须先登录在离开一个组。</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>You can not leave your own group.</source>
+        <target>你不能离开自己的组。</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>You are not a member of this group.</source>
+        <target>你是不是该组的成员。</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Your membership with this group has been cancelled.</source>
+        <target>你与这个小组的成员已被取消。</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>The group has already a forum.</source>
+        <target>本集团已进行了座谈。</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>The forum for this group has been created.</source>
+        <target>本组论坛已创建。</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>You may not delete this group.</source>
+        <target>您可能无法删除这个群组。</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>The group @group has been deleted.</source>
+        <target>该组@组已被删除。</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>You are not allowed to edit media in this group.</source>
+        <target>不允许您编辑本组的媒体。</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>You are not allowed to assign media to this group.</source>
+        <target>你是不是允许本组指定媒体。</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>You have no permission to assign this medium to the group.</source>
+        <target>您没有权限分配到组的中等。</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>This media is already assigned to the group.</source>
+        <target>该媒体已经分配给该组。</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>The medium has been assigned to this group.</source>
+        <target>介质已分配到这个组。</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>You are not allowed to delete media in this group.</source>
+        <target>您不得在本组中删除媒体。</target>
+      </trans-unit>
+      <trans-unit id="432">
+        <source>The group medium could not be found.</source>
+        <target>集团中期可能不会被发现。</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>The medium has been deleted from this group.</source>
+        <target>从本组的介质已被删除。</target>
+      </trans-unit>
+      <trans-unit id="434">
+        <source>You are not allowed to edit users of this group.</source>
+        <target>不允许您编辑此组中的用户。</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>You are not allowed to confirm memberships in this group.</source>
+        <target>您不得以确认在本组的成员。</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>The group user could not be found.</source>
+        <target>该组的用户无法被发现。</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>The user of this group has been confirmed.</source>
+        <target>该组已通过该用户</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>You are not allowed to delete users in this group.</source>
+        <target>您不得在本组中删除用户。</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>The user has been deleted from this group.</source>
+        <target>从这个组的用户已被删除。</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>You are not allowed to invite users into this group.</source>
+        <target>你是不是可以邀请用户到这个组。</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>The user was successfully invited to this group.</source>
+        <target>用户成功邀请到这个组。</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>You have not been invited to join this group.</source>
+        <target>你有没有被邀请加入这个集团。</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>You have already confirmed the invitation of the Group @group.</source>
+        <target>您已经接受群组 @group 的邀请。</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>Your invitiation to this group has been deleted.</source>
+        <target>你邀请的这组已被删除。</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>You invitation to this group has been accepted.</source>
+        <target>您的邀请到该组已被接受。</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>My friends' groups</source>
+        <target>好友的群组</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>Public - details for this group are available to everyone (recommended)</source>
+        <target>公开 - 该群组的内容细节对任何人可见（推荐）</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Private - details for this group are only available to members of the group</source>
+        <target>私有 -  该群组的内容细节仅对组内人可见</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>The title must not exceed %max_length% characters.</source>
+        <target>标题不得超过％MAX_LENGTH％字符。</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>You need to add a title.</source>
+        <target>您需要添加一个标题。</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>You need to add a description.</source>
+        <target>你需要添加一个描述。</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>You need to add a group image.</source>
+        <target>您需要添加一组图片。</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>You need to choose a visibility status.</source>
+        <target>您需要选择一个可见的状态。</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Description</source>
+        <target>描述</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Group image</source>
+        <target>集团形象</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Published</source>
+        <target>发布方式</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>select friend</source>
+        <target>选择朋友</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>The requested group does not exist.</source>
+        <target>请求的组不存在。</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>You have to enter a username.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>You have to enter a message for the user.</source>
+        <target>您必须输入用户的消息。</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>You have to enter a username OR choose a friend from the list.</source>
+        <target>您必须输入一个用户名或从列表中选择一个朋友。</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>You can only enter a username OR choose a friend from the list.</source>
+        <target>您可以只输入一个用户名，或从列表中选择一个朋友。</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>This friend does not exist.</source>
+        <target>这位朋友不存在。</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>This user is the founder of this group.</source>
+        <target>这个用户是本组的创始人。</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>The user is already waiting to be accepted to this group.</source>
+        <target>用户已经等待被接受本组。</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>The user has already been invited to this group.</source>
+        <target>用户已经被邀请到这个组。</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>The user is already a member of this group.</source>
+        <target>用户已经是该组的成员。</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>An invitation was sent to the e-mail address of the user.</source>
+        <target>邀请函发送到用户的电子邮件地址。</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>The invitation could not be sent to the user. Please contact your administrator.</source>
+        <target>邀请无法发送给用户。请与管理员联系。</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>The media type @type is not supported.</source>
+        <target>不支持的媒体类型@类型。</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>You are not allowed to send e-mails.</source>
+        <target>不允许您发送电子邮件。</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Invalid data</source>
+        <target>无效的数据</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Invalid e-mail address</source>
+        <target>无效的电子邮件地址</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>This medium doesn't exist.</source>
+        <target>这种介质不存在。</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>An error occurred while sending your e-mail.</source>
+        <target>发送电​​子邮件时发生错误。</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>Your e-mail was sent successfully.</source>
+        <target>您的E - mail发送成功。</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>The medium has to be converted first.</source>
+        <target>首先要转换的媒介。</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>The medium is currently being converted for use in the portal.</source>
+        <target>介质是目前正在使用该门户的转换。</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>There was an error while converting this medium.</source>
+        <target>有一个错误，而这种媒介转换。</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>The medium has been added to your favorites.</source>
+        <target>介质已被添加到您的收藏夹。</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>The medium has been deleted from your favorites.</source>
+        <target>介质已被删除从您的最爱。</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>The status of the medium has been changed.</source>
+        <target>介质的状态已经改变。</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>You are not authorized to delete this medium.</source>
+        <target>你是不是有权删除这个媒介。</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>The medium has been deleted.</source>
+        <target>介质已被删除。</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>You are not authorized to edit this medium.</source>
+        <target>您未被授权编辑这个媒介。</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Find address</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Use address data</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>You passed an invalid value.</source>
+        <target>你传递一个无效的值。</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>You are not authorized to upload media.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>The media has been imported.</source>
+        <target>媒体一直依赖进口。</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>The media has been uploaded and is now being converted.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>The media has been reported and will be reviewed. Thanks for your help.</source>
+        <target>媒体已经报道，并会作出检讨。感谢您的帮助。</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>Bad request.</source>
+        <target>错误的请求。</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Please log in to rate this medium.</source>
+        <target>请登录评价这个项目。</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>You can not rate your own media.</source>
+        <target>你不能对自己的媒体。</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>You have no permission to rate this medium.</source>
+        <target>您无权评价这个。</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>Thank you for your vote!</source>
+        <target>感谢您的投票！</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>You have already rated this medium.</source>
+        <target>您已经评价这个项目。</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>View</source>
+        <target>视图</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Playback</source>
+        <target>播放</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>Fitting</source>
+        <target>配件</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>original size</source>
+        <target>原始大小</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>Anti-aliasing</source>
+        <target>抗锯齿</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>Lights off automatically</source>
+        <target>关闭自动点亮</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>Repeat</source>
+        <target>重复</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>Enable ColorMood</source>
+        <target>启用ColorMood</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Options</source>
+        <target>选项</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Your message</source>
+        <target>您的邮件</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>recipient address</source>
+        <target>收件人地址</target>
+      </trans-unit>
+      <trans-unit id="510">
+        <source>Send video</source>
+        <target>发送视频</target>
+      </trans-unit>
+      <trans-unit id="511">
+        <source>Embed media</source>
+        <target>嵌入媒体</target>
+      </trans-unit>
+      <trans-unit id="512">
+        <source>Size of the player</source>
+        <target>播放器的尺寸</target>
+      </trans-unit>
+      <trans-unit id="513">
+        <source>Auto play</source>
+        <target>自动播放</target>
+      </trans-unit>
+      <trans-unit id="514">
+        <source>Light off</source>
+        <target>灯灭</target>
+      </trans-unit>
+      <trans-unit id="515">
+        <source>Width</source>
+        <target>宽度</target>
+      </trans-unit>
+      <trans-unit id="516">
+        <source>Height</source>
+        <target>高度</target>
+      </trans-unit>
+      <trans-unit id="517">
+        <source>url</source>
+        <target>网址</target>
+      </trans-unit>
+      <trans-unit id="518">
+        <source>playlist url</source>
+        <target>播放列表的URL</target>
+      </trans-unit>
+      <trans-unit id="519">
+        <source>Embed playlist</source>
+        <target>嵌入播放列表</target>
+      </trans-unit>
+      <trans-unit id="520">
+        <source>Advertisement</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="521">
+        <source>Now playing:</source>
+        <target>正在播放：</target>
+      </trans-unit>
+      <trans-unit id="522">
+        <source>Next video:</source>
+        <target>下一部影片：</target>
+      </trans-unit>
+      <trans-unit id="523">
+        <source>Replay</source>
+        <target>重播</target>
+      </trans-unit>
+      <trans-unit id="524">
+        <source>There are no media in the playlist. Use the content browser to add media.</source>
+        <target>在播放列表中没有媒体。使用内容浏览器中添加媒体。</target>
+      </trans-unit>
+      <trans-unit id="525">
+        <source>The medium could not be loaded.</source>
+        <target>无法加载介质。</target>
+      </trans-unit>
+      <trans-unit id="526">
+        <source>Share</source>
+        <target>分享</target>
+      </trans-unit>
+      <trans-unit id="527">
+        <source>recommend Media</source>
+        <target>建议媒体</target>
+      </trans-unit>
+      <trans-unit id="528">
+        <source>Copy</source>
+        <target>复制</target>
+      </trans-unit>
+      <trans-unit id="529">
+        <source>Visit</source>
+        <target>访问</target>
+      </trans-unit>
+      <trans-unit id="530">
+        <source>More options</source>
+        <target>更多选项</target>
+      </trans-unit>
+      <trans-unit id="531">
+        <source>Anti-aliasing: on</source>
+        <target>反锯齿：</target>
+      </trans-unit>
+      <trans-unit id="532">
+        <source>Anti-aliasing: off</source>
+        <target>关闭反锯齿：</target>
+      </trans-unit>
+      <trans-unit id="533">
+        <source>Lights off automatically: on</source>
+        <target>灯自动关闭：</target>
+      </trans-unit>
+      <trans-unit id="534">
+        <source>Lights off automatically: off</source>
+        <target>灯自动关闭：关闭</target>
+      </trans-unit>
+      <trans-unit id="535">
+        <source>ColorMood: on</source>
+        <target>ColorMood：ON</target>
+      </trans-unit>
+      <trans-unit id="536">
+        <source>ColorMood: off</source>
+        <target>ColorMood：关闭</target>
+      </trans-unit>
+      <trans-unit id="537">
+        <source>Sound: on</source>
+        <target>声音：开</target>
+      </trans-unit>
+      <trans-unit id="538">
+        <source>Sound: off</source>
+        <target>声音：关</target>
+      </trans-unit>
+      <trans-unit id="539">
+        <source>Play</source>
+        <target>播放</target>
+      </trans-unit>
+      <trans-unit id="540">
+        <source>Pause</source>
+        <target>暂停</target>
+      </trans-unit>
+      <trans-unit id="541">
+        <source>Stop</source>
+        <target>停止</target>
+      </trans-unit>
+      <trans-unit id="542">
+        <source>Mute</source>
+        <target>哑</target>
+      </trans-unit>
+      <trans-unit id="543">
+        <source>Volume</source>
+        <target>卷</target>
+      </trans-unit>
+      <trans-unit id="544">
+        <source>Options Open / Close</source>
+        <target>打开/关闭选项</target>
+      </trans-unit>
+      <trans-unit id="545">
+        <source>Description Open / Close</source>
+        <target>打开/关闭描述</target>
+      </trans-unit>
+      <trans-unit id="546">
+        <source>Add comment</source>
+        <target>发表评论</target>
+      </trans-unit>
+      <trans-unit id="547">
+        <source>Sidebar open / close</source>
+        <target>边栏打开/关闭</target>
+      </trans-unit>
+      <trans-unit id="548">
+        <source>Lights on/off</source>
+        <target>远程开/关</target>
+      </trans-unit>
+      <trans-unit id="549">
+        <source>Fullscreen on/off</source>
+        <target>全屏上的开/关</target>
+      </trans-unit>
+      <trans-unit id="550">
+        <source>Next Image</source>
+        <target>下一张图片</target>
+      </trans-unit>
+      <trans-unit id="551">
+        <source>Previous image</source>
+        <target>上一张图片</target>
+      </trans-unit>
+      <trans-unit id="552">
+        <source>Album list</source>
+        <target>相册目录</target>
+      </trans-unit>
+      <trans-unit id="553">
+        <source>Tile view</source>
+        <target>平铺视图</target>
+      </trans-unit>
+      <trans-unit id="554">
+        <source>List view</source>
+        <target>列表视图</target>
+      </trans-unit>
+      <trans-unit id="555">
+        <source>OK</source>
+        <target>“确定”</target>
+      </trans-unit>
+      <trans-unit id="556">
+        <source>Send to a friend</source>
+        <target>发送给朋友</target>
+      </trans-unit>
+      <trans-unit id="557">
+        <source>Embed medium on own page</source>
+        <target>自己的网页上嵌入介质</target>
+      </trans-unit>
+      <trans-unit id="558">
+        <source>Fullscreen mode</source>
+        <target>全屏模式</target>
+      </trans-unit>
+      <trans-unit id="559">
+        <source>Exit fullscreen mode</source>
+        <target>退出全屏模式</target>
+      </trans-unit>
+      <trans-unit id="560">
+        <source>Fit video</source>
+        <target>适合视频</target>
+      </trans-unit>
+      <trans-unit id="561">
+        <source>Deactive anti-aliasing</source>
+        <target>Deactive反走样</target>
+      </trans-unit>
+      <trans-unit id="562">
+        <source>Active anti-aliasing</source>
+        <target>积极的反走样</target>
+      </trans-unit>
+      <trans-unit id="563">
+        <source>Lights on</source>
+        <target>对灯</target>
+      </trans-unit>
+      <trans-unit id="564">
+        <source>Deactivate ColorMood</source>
+        <target>停用ColorMood</target>
+      </trans-unit>
+      <trans-unit id="565">
+        <source>Thank you for your vote.</source>
+        <target>感谢您的投票。</target>
+      </trans-unit>
+      <trans-unit id="566">
+        <source>Public - everyone can see this medium (recommended)</source>
+        <target>公开 - 每个人都可以看到这个资源 (推荐)</target>
+      </trans-unit>
+      <trans-unit id="567">
+        <source>Private - this medium will not be shown in the portal</source>
+        <target>私有 - 该资源不会公开显示在网页上</target>
+      </trans-unit>
+      <trans-unit id="568">
+        <source>meta tag title</source>
+        <target>媒体标签标题</target>
+      </trans-unit>
+      <trans-unit id="569">
+        <source>meta tag description</source>
+        <target>媒体标签介绍</target>
+      </trans-unit>
+      <trans-unit id="570">
+        <source>meta tag keywords</source>
+        <target>媒体标签关键词</target>
+      </trans-unit>
+      <trans-unit id="571">
+        <source>meta tag author</source>
+        <target>媒体标签作者</target>
+      </trans-unit>
+      <trans-unit id="572">
+        <source>meta tag copyright</source>
+        <target>标签版权</target>
+      </trans-unit>
+      <trans-unit id="573">
+        <source>Category</source>
+        <target>类别</target>
+      </trans-unit>
+      <trans-unit id="574">
+        <source>Thumbnail</source>
+        <target>缩略图</target>
+      </trans-unit>
+      <trans-unit id="575">
+        <source>Tags are certain keywords you can assign to a medium to help people find it. Separate several tags by comma.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="576">
+        <source>Choose at least one category for your medium.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="577">
+        <source>Leave the field blank to use the current thumbnail.</source>
+        <target>字段留空使用当前的缩略图。</target>
+      </trans-unit>
+      <trans-unit id="578">
+        <source>Media reported</source>
+        <target>媒体报道</target>
+      </trans-unit>
+      <trans-unit id="579">
+        <source>No media types have been defined.</source>
+        <target>已定义的任何媒体类型。</target>
+      </trans-unit>
+      <trans-unit id="580">
+        <source>You have to upload a media.</source>
+        <target>你需要上传一个资源</target>
+      </trans-unit>
+      <trans-unit id="581">
+        <source>Medium</source>
+        <target>中等</target>
+      </trans-unit>
+      <trans-unit id="582">
+        <source>Media file required.</source>
+        <target>需要指定资源文件</target>
+      </trans-unit>
+      <trans-unit id="583">
+        <source>Your message has been sent.</source>
+        <target>您的邮件已发送。</target>
+      </trans-unit>
+      <trans-unit id="584">
+        <source>The e-mail could not be sent. Please try again later.</source>
+        <target>无法发送电子邮件。请稍后再试。</target>
+      </trans-unit>
+      <trans-unit id="585">
+        <source>The e-mail could not be sent because the user did not provide an e-mail address.</source>
+        <target>不能因为用户没有提供一个电子邮件地址发送电子邮件。</target>
+      </trans-unit>
+      <trans-unit id="586">
+        <source>Error</source>
+        <target>错误</target>
+      </trans-unit>
+      <trans-unit id="587">
+        <source>The message could not be opened.</source>
+        <target>该消息无法打开。</target>
+      </trans-unit>
+      <trans-unit id="588">
+        <source>Message not found.</source>
+        <target>找不到邮件。</target>
+      </trans-unit>
+      <trans-unit id="589">
+        <source>RE: </source>
+        <target>Re：</target>
+      </trans-unit>
+      <trans-unit id="590">
+        <source>No message selected</source>
+        <target>选择无消息</target>
+      </trans-unit>
+      <trans-unit id="591">
+        <source>Messages moved to the recycle bin.</source>
+        <target>消息移动到回收站。</target>
+      </trans-unit>
+      <trans-unit id="592">
+        <source>The message could not be found.</source>
+        <target>该消息可能不会被发现。</target>
+      </trans-unit>
+      <trans-unit id="593">
+        <source>The messages were deleted.</source>
+        <target>该消息被删除。</target>
+      </trans-unit>
+      <trans-unit id="594">
+        <source>Inbox</source>
+        <target>收件箱</target>
+      </trans-unit>
+      <trans-unit id="595">
+        <source>Sent messages</source>
+        <target>发送邮件</target>
+      </trans-unit>
+      <trans-unit id="596">
+        <source>Trash</source>
+        <target>垃圾</target>
+      </trans-unit>
+      <trans-unit id="597">
+        <source>New message</source>
+        <target>新信息</target>
+      </trans-unit>
+      <trans-unit id="598">
+        <source>search in all categories</source>
+        <target>在所有类别中搜索</target>
+      </trans-unit>
+      <trans-unit id="599">
+        <source>search in specific categories</source>
+        <target>在特定类别中搜索</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>search in all groups</source>
+        <target>在所有群体中搜索</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>search in specific groups</source>
+        <target>在特定群体中搜索</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>search in all channels</source>
+        <target>在所有通道中搜索</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>search in specific channels</source>
+        <target>在特定的渠道中搜索</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>search in</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>You have to provide at least one search criteria.</source>
+        <target>您必须提供至少一个搜索条件。</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>You have to select at least one category.</source>
+        <target>你必须至少选择一个类别。</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>You have to select at least one group.</source>
+        <target>您必须选择至少一组。</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>You have to select at least one channel.</source>
+        <target>你必须至少选择一个通道。</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Administration</source>
+        <target>政府</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Upload</source>
+        <target>上传</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>Register</source>
+        <target>注册</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Logout</source>
+        <target>注销</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>Homepage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>WebTV</source>
+        <target>网络电视</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>Please log in first to edit your personal profile.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>You are not allowed to edit this profile.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>Your profile has been saved.</source>
+        <target>您的个人资料已保存。</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>A confirmation e-mail has been sent.</source>
+        <target>一个确认的电子邮件已发送。</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>The confirmation e-mail could not be sent. Please contact the community administrator.</source>
+        <target>无法发送电子邮件确认。请社区管理员联系。</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>The user has been deleted.</source>
+        <target>该用户已被删除。</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>The deletion code is not (more) valid.</source>
+        <target>删除的代码无效</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>Your account has been deleted.</source>
+        <target>您的帐户已被删除。</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>You must be logged in to delete your account.</source>
+        <target>您必须先登录中删除您的帐户。</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>A confirmation e-mail has been sent to the deletion of your user account.</source>
+        <target>一个确认的电子邮件已经发送到您的用户帐户删除。</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>The email to deletion of your user account could not be sent.</source>
+        <target>删除您的用户帐户的电子邮件不能被发送。</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>The password is not valid. Please retry.</source>
+        <target>密码是无效的。请重试。</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>The passwords do not match. Please try again.</source>
+        <target>密码不匹配。请再试一次。</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>The password has been successfully changed.</source>
+        <target>已成功更改密码。</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>The @portal_name community is closed for new registrations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>You are already registered in this community.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Registration successful</source>
+        <target>注册成功</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>Thank you for your registration. A confirmation e-mail has been sent to the e-mail address you entered.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Thank you for your registration.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>The activation e-mail could not be sent. Please contact the community administrator.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Validation failed.</source>
+        <target>Validation failed.</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>Your account has already been activated.</source>
+        <target>您的帐户已被激活。</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Your account is being verified. Please try again later.</source>
+        <target>Your account is being verified.请稍后再试。</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>Thank you. Your e-mail address has been verified. This e-mail address doesn't match the allowed domains and therefore has to be approved by an administrator.</source>
+        <target>谢谢。 Your e-mail address has been verified. This e-mail address doesn't match the allowed domains and therefore has to be approved by an administrator.</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Thank you. Your e-mail address has been verified. However, an administrator must approve your account before you may use all features of the portal.</source>
+        <target>谢谢。 Your e-mail address has been verified. However, an administrator must approve your account before you may use all features of the portal.</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Welcome. Your account has been successfully validated.</source>
+        <target>欢迎光临！ Your account has been successfully validated.</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>The specified e-mail address could not be found. Please try again.</source>
+        <target>The specified e-mail address could not be found.请再试一次。</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>New password</source>
+        <target>新密码</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Your new password has been sent to the e-mail address you specified.</source>
+        <target>Your new password has been sent to the e-mail address you specified.</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>The confirmation code could not be found.</source>
+        <target>The confirmation code could not be found.</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Your new password</source>
+        <target>您的新密码</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>The user has been reported and will be reviewed. Thanks for your help.</source>
+        <target>The user has been reported and will be reviewed.感谢您的帮助。</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>An error occurred while logging in.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Old password</source>
+        <target>旧密码</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Your new password (confirmation)</source>
+        <target>Your new password (confirmation)</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>You must enter a new password.</source>
+        <target>You must enter a new password.</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>The new password has to be confirmed.</source>
+        <target>新密码已生效</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>E-mail</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>The e-mail address is invalid.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Your username</source>
+        <target>您的用户名</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>Language</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>Hidden profile</source>
+        <target>Hidden profile</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Your profile picture</source>
+        <target>Your profile picture</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>Delete this picture</source>
+        <target>Delete this picture</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>First name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Last name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>City</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Country</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>Birthday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Gender</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>About me</source>
+        <target>关于我</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>If you change your e-mail address, you will be asked to confirm it by e-mail.</source>
+        <target>If you change your e-mail address, you will be asked to confirm it by e-mail.</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>The username has to be supplied.</source>
+        <target>The username has to be supplied.</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>The username is too short (min. %min% characters).</source>
+        <target>The username is too short (min. %min% characters).</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>The username is too long (max. %max% characters).</source>
+        <target>The username is too long (max. %max% characters).</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>The supplied username is already taken.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>The supplied e-mail address is already in use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>user reported</source>
+        <target>user reported</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Password</source>
+        <target>密码</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>Password (repeat)</source>
+        <target>密码（重复）</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>I accept the @link_terms of use and the @link_privacy of this community.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>Terms and Conditions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>You have to enter an e-mail address.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>You have to enter a password.</source>
+        <target>You have to enter a password.</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>You have to confirm your password.</source>
+        <target>You have to confirm your password.</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>You have to accept the terms and conditions.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>The passwords do not match.</source>
+        <target>密码不匹配。</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>This username is already taken. Please choose a different username.</source>
+        <target>此用户名已被使用。请选择一个不同的的用户名。</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>This e-mail address is already in use. Please choose a different address.</source>
+        <target>This e-mail address is already in use. Please choose a different address.</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>position</source>
+        <target>位置</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>You are not registered yet. Please register.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>You have not verified your membership yet.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>The password entered does not match the one in our database.</source>
+        <target>The password entered does not match the one in our database.</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>English</source>
+        <target>英语</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>German</source>
+        <target>德国</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>Date of birth</source>
+        <target>出生日期</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>Friend request</source>
+        <target>交友请求</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>My favorites</source>
+        <target>我的最爱</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>My history</source>
+        <target>我的历史</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>Favorites of @user</source>
+        <target>Favorites of @user</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>History of @user</source>
+        <target>History of @user</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Change e-mail address</source>
+        <target>更改e - mail地址</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>Search in channels</source>
+        <target>Search in channels</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Being watched right now</source>
+        <target>Being watched right now</target>
+      </trans-unit>
+      <trans-unit id="699">
+        <source>Duration: @duration</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Dimensions: @size</source>
+        <target>Dimensions: @size</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Size: @size</source>
+        <target>Size: @size</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>New videos</source>
+        <target>新影片</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>New pictures</source>
+        <target>新照片</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>New audios</source>
+        <target>New audios</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>New documents</source>
+        <target>新文件</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>Media tagged @tag</source>
+        <target>资源标签 @tag</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>My friends' media</source>
+        <target>好友的资源</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>My groups' media</source>
+        <target>我的群组资源</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Channel media @channel</source>
+        <target>媒体频道 @channel</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>My group forum comments</source>
+        <target>My group forum comments</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Group forum comments</source>
+        <target>Group forum comments</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>My forum comments</source>
+        <target>My forum comments</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Forum comments</source>
+        <target>论坛评论</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>My group forum posts</source>
+        <target>My group forum posts</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Group forum posts</source>
+        <target>Group forum posts</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>My forum posts</source>
+        <target>My forum posts</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>Forum posts</source>
+        <target>论坛帖子</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Invitation to the group @group</source>
+        <target>Invitation to the group @group</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>My Group's Forumthreads</source>
+        <target>My Group's Forumthreads</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>All Groups Forumthreads</source>
+        <target>All Groups Forumthreads</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Forumthreads</source>
+        <target>Forumthreads</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>My Forumthreads</source>
+        <target>My Forumthreads</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Activities</source>
+        <target>活动</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Activities of your friends</source>
+        <target>Activities of your friends</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Create blog</source>
+        <target>创建博客</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>Edit blog</source>
+        <target>编辑博客</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>Edit comment on blog entry</source>
+        <target>Edit comment on blog entry</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Edit channel</source>
+        <target>编辑频道</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Invite a friend</source>
+        <target>邀请朋友</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Members</source>
+        <target>议员</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Outbox</source>
+        <target>发件箱</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Page not found</source>
+        <target>找不到网页</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Edit user</source>
+        <target>Edit user</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Send password</source>
+        <target>发送密码</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>User could not be found.</source>
+        <target>User could not be found.</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>My messages</source>
+        <target>我的邮件</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Latest </source>
+        <target>最新</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>New media</source>
+        <target>新资源</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Mobile</source>
+        <target>移动</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>POST exceeded maximum allowed size.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>There is no error, the file uploaded with success.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>The uploaded file exceeds the upload_max_filesize directive in php.ini.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>The uploaded file was only partially uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>No file was uploaded.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Missing a temporary folder.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>Failed to write file to disk.</source>
+        <target>写入磁盘失败</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>A PHP extension stopped the file upload.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>No upload found in $_FILES for @upload_name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>Upload failed is_uploaded_file test.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>File has no name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>File exceeds the maximum allowed size.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>File size outside allowed lower bound.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Invalid file name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Invalid file extension.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>File could not be saved.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>File was saved with file id @file_id.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>ViMP ControlCenter</source>
+        <target>ViMP ControlCenter</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>Desktop</source>
+        <target>桌面</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Blog</source>
+        <target>博客</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>from</source>
+        <target>从</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>at: @timediff</source>
+        <target>在: @timediff</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Further blogs</source>
+        <target>Further blogs</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Channel</source>
+        <target>频道</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Further channels</source>
+        <target>Further channels</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Home</source>
+        <target>首页</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Profile</source>
+        <target>简介</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Author</source>
+        <target>作者</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Answers</source>
+        <target>答案</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>Last Post</source>
+        <target>最后发表</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>Group</source>
+        <target>集团</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>Forum threads</source>
+        <target>讨论主题</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Further groups</source>
+        <target>Further groups</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Further members</source>
+        <target>Further members</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>Write new comment</source>
+        <target>评论</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>Further comments</source>
+        <target>进一步意见</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Further media</source>
+        <target>更多资源</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Rate</source>
+        <target>率</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Excellent</source>
+        <target>优秀的</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>Very good</source>
+        <target>非常好</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Well</source>
+        <target>以及</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Sufficient</source>
+        <target>足够的</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Poor</source>
+        <target>穷人</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>No related media found.</source>
+        <target>找不到相关的资源</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Permalink</source>
+        <target>永久</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Medias (@count)</source>
+        <target>资源 (@count)</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Gruppen (@count)</source>
+        <target>Gruppen (@count)</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Blogs (@count)</source>
+        <target>Blogs (@count)</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Comments (@count)</source>
+        <target>Comments (@count)</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>current</source>
+        <target>目前</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Upload is disabled.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>You are not allowed to modify favorites.</source>
+        <target>You are not allowed to modify favorites.</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Security code</source>
+        <target>安全码</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>You have to enter the security code.</source>
+        <target>You have to enter the security code.</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>The security code is invalid.</source>
+        <target>The security code is invalid.</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>Members of group</source>
+        <target>Members of group</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

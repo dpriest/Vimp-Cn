@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.en.xml 2 2011-06-28 17:28:29Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2011-01-27T12:01:00Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Facebook Connect settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Facebook Connect</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Enable Facebook Connect</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>If enabled users can log in with a Facebook account</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Facebook Application Id</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Facebook Application Secret</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Use facebook cookie</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Facebook Domain</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>The @portal_name community is closed for new registrations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>An error occurred while logging in.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Connect with Facebook</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

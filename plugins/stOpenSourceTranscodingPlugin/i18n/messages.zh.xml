@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<!-- Version SVN: $Id: messages.de.xml 2 2011-06-28 17:28:24Z sven $ -->
+<xliff version="1.0">
+  <file source-language="en" target-language="zh_CN" datatype="plaintext" original="messages" date="2011-04-13T21:11:24Z" product-name="messages">
+    <header />
+    <body>
+      <trans-unit id="1">
+        <source>Transcoder settings</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Transcoder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Video conversion</source>
+        <target>视频转换</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Choose the quality of video conversion.</source>
+        <target>选择视频转换质量。</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Width of the converted video stream</source>
+        <target>转换后的视频流的宽度</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Maximum width of the converted video stream</source>
+        <target>转换后的视频流的最大宽度</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Height of the converted video stream</source>
+        <target>转换后的视频流的高度</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Maximum height of the converted video stream (default: -2 = height will be calculated automatically)</source>
+        <target>转换后的视频流的最大高度（默认值：-2 =身高会自动计算）</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Custom video bitrate in kbit/s</source>
+        <target>自定义kbit / s的视频比特率</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Overrides the video bitrate in the quality settings (default: @default)</source>
+        <target>覆盖质量设置的视频比特率（默认：@默认）</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Custom parameters</source>
+        <target>自定义参数</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Defines the parameters that are passed directly to MEncoder.</source>
+        <target>定义参数直接传递到MEncoder的。</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>mencoder path</source>
+        <target>MEncoder的路径</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>mplayer path</source>
+        <target>mplayer的路径</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>ffmpeg path</source>
+        <target>ffmpeg的路径</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>flvtool2 path</source>
+        <target>flvtool2路径</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>faststart path</source>
+        <target>faststart路径</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Width of the converted HTML5 video stream</source>
+        <target>转换HTML5视频流的宽度</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Maximum width of the converted HTML5 video stream</source>
+        <target>转换HTML5视频流的最大宽度</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Height of the converted HTML5 video stream</source>
+        <target>转换HTML5视频流的高度</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Maximum height of the converted HTML5 video stream (default: -2 = height will be calculated automatically)</source>
+        <target>最大高度的转换HTML5视频流（默认值：-2 =身高会自动计算）</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Transcode to mobile MP4 (.m4v)</source>
+        <target>转码手机MP4（。M4V）</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Transcode to Ogg Vorbis Video (.ogv)</source>
+        <target>转码Ogg Vorbis格式视频（。OGV）</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Transcode to WebM (.webm)</source>
+        <target>转码的WebM（WEBM）</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Transcode to Ogg Vorbis Audio (.oga)</source>
+        <target>转码Ogg Vorbis音频（。奥加）</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Transcode to PCM Wave Audio (.wav)</source>
+        <target>转码PCM波形音频（。wav）</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
